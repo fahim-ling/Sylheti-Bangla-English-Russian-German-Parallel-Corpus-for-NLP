@@ -6,18 +6,18 @@
 Welcome to the first open-source multi-lingual parallel corpus for the **Sylheti** language, designed to support Computational Linguistics (CL) and Natural Language Processing (NLP) research.
 
 ## 📌 Project Overview
-Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the gap by building a structured multi-lingual parallel corpus to train Machine Translation (MT) models, speech-to-text systems, and downstream NLP tools.
+Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the gap by building a structured multi-lingual parallel corpus to train Machine Translation (MT) models, speech-to-text systems, and downstream NLP tools, incorporating dialectal variations and traditional scripts.
 
 ## 📂 Dataset Structure & Preview
 * **Languages Covered:** Sylheti, Bangla, English, Russian
 * **Format:** CSV / Google Sheets
 
-| Sylheti (Spoken / Nagri / Romanized) | Bangla (Standard) | English | Russian |
-| :--- | :--- | :--- | :--- |
-| আখন যাইমুগা (*Akhon zaimuga*) | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. |
+| Sylheti (Spoken / Romanized) | Sylheti (Nagri Script) | Bangla (Standard) | English | Russian |
+| :--- | :--- | :--- | :--- | :--- |
+| অখন যাইমুগি (*Okhon zaimugi*) | অখন্ যাইমুগि | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. |
 
 ## 🚀 Future Goals
-- Expand the textual corpus to 5,000+ parallel sentences to digitally preserve the language.
+- Expand the textual corpus to 5,000+ parallel sentences, including regional dialects to capture linguistic diversity.
 - Collect acoustic audio data for Automatic Speech Recognition (ASR).
 - Develop basic NLP utilities (tokenizers, morphological analyzers) tailored for Sylheti.
 
