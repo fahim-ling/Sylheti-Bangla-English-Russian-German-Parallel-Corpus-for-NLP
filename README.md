@@ -1,7 +1,7 @@
-আমিইমুগिইমুগिSylheti-Bangla-English-Russian Parallel Corpus for NLP
+# Sylheti-Bangla-English-Russian Parallel Corpus for NLP
 
-![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
-![Domain: NLP / Computational Linguistics](https://img.shields.io/badge/Domain-NLP%20%2F%20CL-blue)
+![License: CC BY 4.0](https://shields.io)
+![Domain: NLP / Computational Linguistics](https://shields.io)
 
 Welcome to the first open-source multi-lingual parallel corpus for the **Sylheti** language, designed to support Computational Linguistics (CL) and Natural Language Processing (NLP) research.
 
@@ -14,7 +14,7 @@ Sylheti is categorized as a low-resource language with a limited digital footpri
 
 | Sylheti (Spoken / Romanized) | Sylheti (Nagri Script) | Bangla (Standard) | English | Russian |
 | :--- | :--- | :--- | :--- | :--- |
-| অখন যাইমুগি (*Okhon zaimug*) | ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. |
+| আমি অখন যাইমুগি (*Ami okhon zaimugi*) | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. |
 
 ## 🚀 Future Goals
 - Expand the textual corpus to 5,000+ parallel sentences, including regional dialects to capture linguistic diversity.
@@ -32,7 +32,7 @@ You are free to share and adapt the material for any purpose, even commercially,
 If you use this dataset or corpus in your research, software, or project, please cite it using the following format:
 
 ### APA Format
-Fahim, A. (2026). Sylheti-Bangla-English-Russian Parallel Corpus for NLP. GitHub Repository. https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-Parallel-Corpus-for-NLP
+Fahim, A. (2026). Sylheti-Bangla-English-Russian Parallel Corpus for NLP. GitHub Repository. https://github.com
 
 ### BibTeX Format
 ```bibtex
@@ -42,5 +42,5 @@ Fahim, A. (2026). Sylheti-Bangla-English-Russian Parallel Corpus for NLP. GitHub
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished \(= {\url{https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-Parallel-Corpus-for-NLP}} \)}
+  howpublished \(= {\url{https://github.com}} \)}
 ```
