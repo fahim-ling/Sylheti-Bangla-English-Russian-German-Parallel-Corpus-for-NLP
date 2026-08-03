@@ -1,7 +1,7 @@
-# Sylheti-Bangla-English-German-Russian Parallel Corpus for NLP
+# Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP
 
-![License: CC BY 4.0](https://shields.io)
-![Domain: NLP / Computational Linguistics](https://shields.io)
+![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
+![Domain: NLP / Computational Linguistics](https://img.shields.io/badge/Domain-NLP%20%2F%20CL-blue)
 
 Welcome to the first open-source multi-lingual parallel corpus for the **Sylheti** language, designed to support Computational Linguistics (CL) and Natural Language Processing (NLP) research.
 
@@ -36,15 +36,15 @@ You are free to share and adapt the material for any purpose, even commercially,
 If you use this dataset or corpus in your research, software, or project, please cite it using the following format:
 
 ### APA Format
-Fahim, A. (2026). Sylheti-Bangla-English-German-Russian Parallel Corpus for NLP. GitHub Repository. https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-Parallel-Corpus-for-NLP
+Fahim, A. (2026). Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP. GitHub Repository. https://github.com
 
 ### BibTeX Format
 ```bibtex
 @misc{fahim2026sylheti,
   author = {Ahmed Fahim},
-  title = {Sylheti-Bangla-English-German-Russian Parallel Corpus for NLP},
+  title = {Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP},
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished \(= {\url{https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-Parallel-Corpus-for-NLP}} \)}
+  howpublished \(= {\url{https://github.com}} \)}
 ```
