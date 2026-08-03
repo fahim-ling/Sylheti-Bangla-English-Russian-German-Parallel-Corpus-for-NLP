@@ -36,7 +36,7 @@ You are free to share and adapt the material for any purpose, even commercially,
 If you use this dataset or corpus in your research, software, or project, please cite it using the following format:
 
 ### APA Format
-Fahim, A. (2026). Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP. GitHub Repository. https://github.com
+Fahim, A. (2026). Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP. GitHub Repository. https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP
 
 ### BibTeX Format
 ```bibtex
@@ -46,5 +46,5 @@ Fahim, A. (2026). Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP.
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished \(= {\url{https://github.com}} \)}
+  howpublished \(= {\url{https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP}} \)}
 ```
