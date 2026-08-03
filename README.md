@@ -1,46 +1,50 @@
-# Sylheti-Bangla-English-Russian-Parallel-Corpus-for-NLP
+# Sylheti-Bangla-English-German-Russian Parallel Corpus for NLP
 
-Welcome to the first open-source multi-lingual parallel corpus for the Sylheti language, designed to support Computational Linguistics (CL) and Natural Language Processing (NLP) research.
+![License: CC BY 4.0](https://shields.io)
+![Domain: NLP / Computational Linguistics](https://shields.io)
+
+Welcome to the first open-source multi-lingual parallel corpus for the **Sylheti** language, designed to support Computational Linguistics (CL) and Natural Language Processing (NLP) research.
 
 ## 📌 Project Overview
-Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the gap by building a structured multi-lingual parallel corpus to train Machine Translation (MT) models, speech-to-text systems, and downstream NLP tools, incorporating dialectal variations and traditional scripts.
+Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the technological gap by building a highly structured multi-lingual parallel corpus. It is uniquely designed to train Machine Translation (MT) models, cross-lingual tokenizers, and dialectal analysis tools by mapping phonetic variations and traditional scripts across major global language families.
 
-## 📊 Dataset Structure & Preview
-- **Languages Covered:** Sylheti, Bangla, English, Russian
-- **Format:** CSV / Google Sheets
+## 📂 Dataset Structure & Preview
+* **Format:** CSV / Google Sheets (UTF-8 Encoded)
+* **Data Integrity Note:** Missing or unverified script data (e.g., unverified Nagri or German inputs) are intentionally left blank (`Null/NaN`) to ensure maximum dataset precision and prevent model degradation from incorrect annotations.
+* **Dialectal Indexing:** Sub-regional variations (e.g., Sylhet Sadar, Sunamganj, Habiganj) are mapped using a structured decimal numbering system (`1.1`, `1.2`) linked to a single semantic meaning.
 
-| id | sylheti_romanized | sylheti_bangla_script | bangla_standard | english | russian | sylheti_nagri |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.1** | Ami okhon zaimugi. | আমি অখন যাইমুগি। | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | ꠀꠝꠤ ꠅꠉꠘ ꠎꠣꠁꠝꠥꠉꠤ |
-| **1.2** | One ami zaimugi. | অনে আমি যাইমুগি। | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | |
-| **1.3** | Akhon ami zaimuga. | আখন আমি যাইমুগা। | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | |
+| Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Bangla (Standard) | English (Standard) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Russian (Русский) | German (Deutsch) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1.1** | *Ami okhon zaimugi* | আমি অখন যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | *In Progress* |
+| **1.2** | *Ami one zaimugi* | আমি অনে যাইমুগি | আমি এখন চলে যাব। | I will leave now. | *In Progress* | Я сейчас уйду. | *In Progress* |
+| **1.3** | *Ami agon zaimuga* | আমি আগন যাইমুগা | আমি এখন চলে যাব। | I will leave now. | *In Progress* | Я сейчас уйду. | *In Progress* |
 
-*Note: The `id` column uses sub-IDs (e.g., 1.1, 1.2) to map multiple dialectal variations of the same sentence without requiring regional strictness. The `sylheti_nagri` column is placed at the end due to current resource constraints and will be updated over time.*
-
-## 🚀 Future Goals
-- Expand the textual corpus to 5,000+ parallel sentences, including regional dialects to capture linguistic diversity.
-- Collect acoustic audio data for Automatic Speech Recognition (ASR).
-- Develop basic NLP utilities (tokenizers, morphological analyzers) tailored for Sylheti.
+## 🚀 Future Roadmap & Core Goals
+- **Scale to 10,000+ Parallel Sentences:** Continually expand the dataset rows to establish a world-class digital preservation corpus.
+- **Granular Dialect Mapping:** Systematically categorize sub-regional dialects (e.g., Sylhet Sadar, Sunamganj, Habiganj, Moulvibazar) using precise metadata tags.
+- **German Language Integration:** Complete parallel translation vectors for German to allow advanced syntactic and structural analysis.
+- **Acoustic Audio Alignment:** Collect high-fidelity spoken data for Automatic Speech Recognition (ASR) and Speech Synthesis (TTS).
 
 ## 🧑‍💻 About the Author
-I am an undergraduate Linguistics student at Kursk State University, Russia, and a native Sylheti speaker. As an aspiring Computational Linguist, I am independently building this dataset to preserve, revitalize, and digitize the Sylheti language using modern computational methods.
+I am an undergraduate Linguistics student at **Kursk State University, Russia**, and a **native Sylheti speaker**. As an aspiring Computational Linguist, I am independently building this dataset to preserve, revitalize, and digitize the Sylheti language using modern computational methods.
 
-## 📄 License
-This project and the dataset are licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0). You are free to share and adapt the material for any purpose, even commercially, as long as you give appropriate credit.
+## 📜 License
+This project and the dataset are licensed under the **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**. 
+You are free to share and adapt the material for any purpose, even commercially, as long as you give appropriate credit.
 
-## 🔗 Citation
+## 📝 Citation
 If you use this dataset or corpus in your research, software, or project, please cite it using the following format:
 
 ### APA Format
-Fahim, A. (2026). Sylheti-Bangla-English-Russian Parallel Corpus for NLP. GitHub Repository. https://github.com
+Fahim, A. (2026). Sylheti-Bangla-English-German-Russian Parallel Corpus for NLP. GitHub Repository. https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-Parallel-Corpus-for-NLP
 
 ### BibTeX Format
 ```bibtex
 @misc{fahim2026sylheti,
   author = {Ahmed Fahim},
-  title = {Sylheti-Bangla-English-Russian Parallel Corpus for NLP},
+  title = {Sylheti-Bangla-English-German-Russian Parallel Corpus for NLP},
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished \(= {\url{https://github.com}} \)}
+  howpublished \(= {\url{https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-Parallel-Corpus-for-NLP}} \)}
 ```
