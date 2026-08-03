@@ -10,14 +10,14 @@ Sylheti is categorized as a low-resource language with a limited digital footpri
 
 ## 📂 Dataset Structure & Preview
 * **Format:** CSV / Google Sheets (UTF-8 Encoded)
-* **Data Integrity Note:** Missing or unverified script data (e.g., unverified Nagri or German inputs) are intentionally left blank (`Null/NaN`) to ensure maximum dataset precision and prevent model degradation from incorrect annotations.
+* **Data Integrity Note:** Missing or unverified script data (e.g., unverified Nagri inputs) are intentionally left blank (`Null/NaN`) to ensure maximum dataset precision and prevent model degradation from incorrect annotations.
 * **Dialectal Indexing:** Sub-regional variations (e.g., Sylhet Sadar, Sunamganj, Habiganj) are mapped using a structured decimal numbering system (`1.1`, `1.2`) linked to a single semantic meaning.
 
 | Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Bangla (Standard) | English (Standard) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Russian (Русский) | German (Deutsch) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.1** | *Ami okhon zaimugi* | আমি অখন যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | *In Progress* |
-| **1.2** | *Ami one zaimugi* | আমি অনে যাইমুগি | আমি এখন চলে যাব। | I will leave now. | *In Progress* | Я сейчас уйду. | *In Progress* |
-| **1.3** | *Ami agon zaimuga* | আমি আগন যাইমুগা | আমি এখন চলে যাব। | I will leave now. | *In Progress* | Я сейчас уйду. | *In Progress* |
+| **1.1** | *Ami okhon zaimugi* | আমি অখন যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | Ich gehe jetzt. |
+| **1.2** | *Ami one zaimugi* | আমি অনে যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠅꠘꠦ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | Ich gehe jetzt. |
+| **1.3** | *Ami akhon zaimuga* | আমি আখন যাইমুগা | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠣ | Я сейчас уйду. | Ich gehe jetzt. |
 
 ## 🚀 Future Roadmap & Core Goals
 - **Scale to 10,000+ Parallel Sentences:** Continually expand the dataset rows to establish a world-class digital preservation corpus.
