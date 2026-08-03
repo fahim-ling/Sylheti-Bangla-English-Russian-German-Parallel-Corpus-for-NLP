@@ -41,10 +41,10 @@ Fahim, A. (2026). Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP.
 ### BibTeX Format
 ```bibtex
 @misc{fahim2026sylheti,
-  author = {Ahmed Fahim},
-  title = {Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP},
-  year = {2026},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-    howpublished = {\url{https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP}}
+  author       = {{Ahmed Fahim}},
+  title        = {Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP}}
 }
+```
