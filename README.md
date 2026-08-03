@@ -46,5 +46,5 @@ Fahim, A. (2026). Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP.
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished \(= {\url{https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP}} \)}
-```
+  howpublished = {\url{[https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP](https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP)}}
+}
