@@ -21,7 +21,7 @@ Sylheti is categorized as a low-resource language with a limited digital footpri
 
 ## 🚀 Future Roadmap & Core Goals
 - **Scale to 10,000+ Parallel Sentences:** Continually expand the dataset rows to establish a world-class digital preservation corpus.
-- **Granular Dialect Mapping:** Systematically categorize sub-regional dialects (e.g., Sylhet Sadar, Sunamganj, Habiganj, Moulvibazar) using precise metadata tags.
+- **Granular Dialect Mapping:** Systematically categorize sub-regional dialects (e.g., Sylhet Sadet, Sunamganj, Habiganj, Moulvibazar) using precise metadata tags.
 - **German Language Integration:** Complete parallel translation vectors for German to allow advanced syntactic and structural analysis.
 - **Acoustic Audio Alignment:** Collect high-fidelity spoken data for Automatic Speech Recognition (ASR) and Speech Synthesis (TTS).
 
