@@ -3,24 +3,27 @@
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
 ![Domain: NLP / Computational Linguistics](https://img.shields.io/badge/Domain-NLP%20%2F%20CL-blue)
 
-Welcome to the first open-source multi-lingual parallel corpus for the **Sylheti** language, designed to support Computational Linguistics (CL) and Natural Language Processing (NLP) research.
+Welcome to the first open-source multi-lingual parallel corpus for the **Sylheti** language, designed to support Computational Linguistics (CL), Natural Language Processing (NLP) research, and **Large Language Model (LLM) training**.
 
 ## 📌 Project Overview
-Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the technological gap by building a highly structured multi-lingual parallel corpus. It is uniquely designed to train Machine Translation (MT) models, cross-lingual tokenizers, and dialectal analysis tools by mapping phonetic variations and traditional scripts across major global language families.
+Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the technological gap by building a highly structured multi-lingual parallel corpus. It is uniquely designed to support **AI and LLM training**, Machine Translation (MT) models, cross-lingual tokenizers, and dialectal analysis tools by mapping phonetic variations and traditional scripts across major global language families.
 
 ## 📂 Dataset Structure & Preview
 * **Format:** CSV / Google Sheets (UTF-8 Encoded)
+* **Project Files:** 
+  * `parallel_sentences.csv`: For sentence-level mappings, Machine Translation, and **LLM fine-tuning**.
+  * `lexicon.csv`: For single words, vocabulary, and short phrases.
 * **Data Integrity Note:** Missing or unverified script data (e.g., unverified Nagri inputs) are intentionally left blank (`Null/NaN`) to ensure maximum dataset precision and prevent model degradation from incorrect annotations.
 * **Dialectal Indexing:** Sub-regional variations (e.g., Sylhet Sadar, Sunamganj, Habiganj) are mapped using a structured decimal numbering system (`1.1`, `1.2`) linked to a single semantic meaning.
 
-| Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Bangla (Standard) | English (Standard) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Russian (Русский) | German (Deutsch) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.1** | *Ami okhon zaimugi* | আমি অখন যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | Ich gehe jetzt. |
-| **1.2** | *Ami one zaimugi* | আমি অনে যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠅꠘꠦ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | Ich gehe jetzt. |
-| **1.3** | *Ami akhon zaimuga* | আমি আখন যাইমুগা | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠣ | Я сейчас уйду. | Ich gehe jetzt. |
+| Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Bangla (Standard) | English (Standard) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Russian (Русский) | German (Deutsch) | Domain | Register |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1.1** | *Ami okhon zaimugi* | আমি অখন যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
+| **1.2** | *Ami one zaimugi* | আমি অনে যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠅꠘ ꠎꠣ ꠝꠥꠉꠤ | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
+| **1.3** | *Ami akhon zaimuga* | আমি আখন যাইমুগা | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠣ | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
 
 ## 🚀 Future Roadmap & Core Goals
-- **Scale to 10,000+ Parallel Sentences:** Continually expand the dataset rows to establish a world-class digital preservation corpus.
+- **Scale to 10,000+ Parallel Sentences:** Continually expand the dataset rows to establish a world-class digital preservation corpus for AI.
 - **Granular Dialect Mapping:** Systematically categorize sub-regional dialects (e.g., Sylhet Sadar, Sunamganj, Habiganj, Moulvibazar) using precise metadata tags.
 - **German Language Integration:** Complete parallel translation vectors for German to allow advanced syntactic and structural analysis.
 - **Acoustic Audio Alignment:** Collect high-fidelity spoken data for Automatic Speech Recognition (ASR) and Speech Synthesis (TTS).
@@ -45,6 +48,5 @@ Fahim, A. (2026). Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP.
   title        = {Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP},
   year         = {2026},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP}}
+  howpublished = {\url{[https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP](https://github.com/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP)}}
 }
-```
