@@ -9,10 +9,10 @@ Welcome to the first open-source multilingual parallel corpus for the **Sylheti*
 Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the technological gap by building a highly structured multilingual parallel corpus. It is uniquely designed to support **AI and LLM training**, Machine Translation (MT) models, cross-lingual tokenizers, and dialectal analysis tools by mapping phonetic variations and traditional scripts across major global language families.
 
 ## 📂 Dataset Structure & Preview
-* **Format:** CSV / WPS Spreadsheet (UTF-8 Encoded)
+* **Format:** TSV (Tab-Separated Values) / Mobile WPS Spreadsheet Compatible (UTF-8 Encoded)
 * **Core Files:** 
-  * `parallel_sentences.csv`: Sentence-level mapping for Machine Translation and **LLM fine-tuning**.
-  * `lexicon.csv`: Single words, core vocabulary, and short phrases.
+  * `parallel_sentences.tsv`: Sentence-level mapping for Machine Translation and **LLM fine-tuning**.
+  * `lexicon.tsv`: Single words, core vocabulary, and short phrases.
 * **Data Integrity:** Unverified or missing script data (e.g., uncertain Nagri inputs) are intentionally left blank (`Null/NaN`) to maintain high precision and prevent AI model degradation.
 * **Dialect Mapping:** Sub-regional variations (e.g., Sylhet Sadar, Sunamganj) sharing the same semantic meaning are linked using a structured decimal index (e.g., `1.1`, `1.2`).
 
@@ -23,7 +23,7 @@ Sylheti is categorized as a low-resource language with a limited digital footpri
 | **1.3** | *Ami akhon zaimuga* | আমি আখন যাইমুগা | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠣ | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
 
 ## 📥 Download & Usage
-The dataset files (`parallel_sentences.csv`, `lexicon.csv`) are stored in this repository under the `data/` directory. You can download them directly from GitHub or use `git clone` to clone the repository.
+The dataset files (`parallel_sentences.tsv`, `lexicon.tsv`) are stored in this repository under the `data/` directory. You can download them directly from GitHub or use `git clone` to clone the repository.
 
 * **Encoding:** UTF-8. 
 * **Data Loading Example (Python/Pandas):** Always verify encoding when loading into tools to prevent text corruption:
