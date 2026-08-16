@@ -49,3 +49,93 @@ Index,Sylheti (Romanized),Sylheti (Bangla Script),Bangla (Standard),English (Sta
 26.2,"Kita xoiso, bhai?","কিতা খইছো, ভাই?","কী বলেছো, ভাই?","What did you say, brother?","ꠇꠤꠔꠣ ꠈꠁꠍꠧ, ꠜꠣꠁ?","Что ты сказал, брат?","Was hast du gesagt, Bruder?",Inquiry,Colloquial/Spoken
 27.1,Ami aizku khaitam nay,আমি আইজকু খাইতাম নায়,আমি আজ খাবো না,I will not eat today,ꠀꠝꠤ ꠀꠁꠎꠇꠥ ꠈꠣꠁꠔꠣꠝ ꠘꠣꠄ,Я сегодня не буду есть,Ich werde heute nicht essen,Daily Life,Informal
 28.1,"Kun shomoy aiba, dosto?","কুন সময় আইবা, দোস্ত?","কখন আসবে, বন্ধু?","When will you come, friend?","ꠇꠥꠘ ꠡꠝꠄ ꠀꠁꠛꠣ, ꠖꠥꠍꠔꠧ?","Когда ты придешь, друг?","Wann kommst du, Freund?",Inquiry,Informal
+29.1,Ami Sylheti matram,আমি সিলেটি মাতরাম,আমি সিলেটি বলছি।,I am speaking Sylheti.,ꠀꠝꠤ ꠍꠤꠟꠐꠤ ꠝꠣꠔꠞꠣꠝ,Я говорю на силхети.,Ich spreche Sylheti.,Language,Informal
+30.1,Pani anso ni?,পানি আনছো নি?,পানি এনেছো কি?,Have you brought water?,ꠙꠣꠘꠤ ꠀꠘꠍꠧ ꠘꠤ?,Ты принес воду?,Hast du Wasser gebracht?,Daily Life,Standard/Written
+30.2,Fani anso ni?,ফানি আনছো নি?,পানি এনেছো কি?,Have you brought water?,ꠚꠣꠘꠤ ꠀꠘꠍꠧ ꠘꠤ?,Ты принес воду?,Hast du Wasser gebracht?,Daily Life,Colloquial/Spoken
+31.1,"Tumi zodi zao, amio zaimu.","তুমি যদি যাও, আমিও যাইমু।","তুমি যদি যাও, আমিও যাবো।","If you go, I will go too.","ꠔꠥꠝꠤ ꠎꠥꠖꠤ ꠎꠣꠅ, ꠀꠝꠤꠅ ꠎꠣꠁꠝꠥ.","Если ты пойдешь, я тоже пойду.","Wenn du gehst, gehe ich auch.",Condition,Informal
+32.1,Pori bhalo koria matlam.,পড়ি ভালো করিয়া মাতলাম।,পড়ে ভালোভাবে বললাম।,I read and spoke well.,ꠙꠠꠤ ꠜꠣꠟꠣ ꠇꠞꠤꠀ ꠝꠣꠔꠟꠣꠝ.,Я прочитал и хорошо сказал.,Ich habe gelesen und gut gesprochen.,Education,Standard/Written
+32.2,Fori vala khoria matlam.,ফড়ি ভালা খরিয়া মাতলাম।,পড়ে ভালোভাবে বললাম।,I read and spoke well.,ꠚꠠꠤ ꠜꠣꠟꠣ ꠈꠞꠤꠀ ꠝꠣꠔꠟꠣꠝ.,Я прочитал и хорошо сказал.,Ich habe gelesen und gut gesprochen.,Education,Colloquial/Spoken
+33.1,Biral-gu ghumaier.,বিড়াল-গু ঘুমাইয়ের।,বিড়ালটি ঘুমাচ্ছে।,The cat is sleeping.,ꠛꠤꠠꠣꠟ-ꠉꠥ ꠊꠥꠝꠣꠁꠄꠞ.,Кошка спит.,Die Katze schläft.,Nature,Informal
+34.1,Ami khailam.,আমি খাইলাম।,আমি খেলাম।,I ate.,ꠀꠝꠤ ꠈꠣꠁꠟꠣꠝ.,Я поел.,Ich habe gegessen.,Daily Life,Standard/Written
+35.1,Bhai-e khorer.,ভাইয়ে করের।,ভাই করছে।,The brother is doing it.,ꠜꠣꠁꠄ ꠇꠞꠦꠞ.,Брат делает это.,Der Bruder macht es.,Daily Life,Standard/Written
+35.2,Bhai-e xorer.,ভাইয়ে খরের।,ভাই করছে।,The brother is doing it.,ꠜꠣꠁꠄ ꠈꠞꠦꠞ.,Брат делает это.,Der Bruder macht es.,Daily Life,Colloquial/Spoken
+36.1,Rasta bhanga.,রাস্তা ভাঙ্গা।,রাস্তা ভাঙা।,The road is broken.,ꠞꠣꠍꠔꠣ ꠜꠣꠋꠉꠣ.,Дорога разбита.,Die Straße ist kaputt.,Description,Standard
+37.1,"Dhoa uther, zoldi ao.","ধোঁয়া উুঠের, জলদি আও।","ধোঁয়া উঠছে, তাড়াতাড়ি এসো।","Smoke is rising, come quickly.","ꠗꠥꠀ ꠃꠑꠦꠞ, ꠎꠟꠖꠤ ꠀꠅ.","Дым поднимается, иди быстрее.","Rauch steigt auf, komm schnell.",Warning,Informal
+38.1,Paharor upor.,পাহাড়র উপর।,পাহাড়ের ওপর।,On top of the mountain.,ꠙꠣꠢꠣꠠꠞ ꠃꠙꠞ.,На вершине горы.,Auf dem Berg.,Nature,Standard/Written
+38.2,Faharor ufor.,ফাহাড়র উফর।,পাহাড়ের ওপর।,On top of the mountain.,ꠚꠣꠢꠣꠠꠞ ꠃꠚꠞ.,На вершине горы.,Auf dem Berg.,Nature,Colloquial/Spoken
+39.1,Zibon bohut kothin.,জীবন বহুত কঠিন।,জীবন অনেক কঠিন।,Life is very hard.,ꠎꠤꠛꠘ ꠛꠢꠥꠔ ꠇꠑꠤꠘ.,Жизнь очень трудна.,Das Leben ist sehr schwer.,Philosophy,Informal
+40.1,Hokol manush xoman nay.,হকল মানুষ সমান নায়।,সব মানুষ সমান নয়।,All people are not equal.,ꠢꠇꠟ ꠝꠣꠘꠥꠡ ꠡꠝꠣꠘ ꠘꠣꠄ.,Все люди не равны.,Alle Menschen sind nicht gleich.,Philosophy,Informal
+41.1,Ami tar kotha hunlam.,আমি তার কথা হুনলাম।,আমি তার কথা শুনলাম।,I listened to his words.,ꠀꠝꠤ ꠔꠣꠞ ꠇꠕꠣ ꠢꠥꠘꠟꠣꠝ.,Я выслушал его слова.,Ich habe auf seine Worte gehört.,Daily Life,Standard/Written
+41.2,Ami tar xotha hunlam.,আমি তার খথা হুনলাম।,আমি তার কথা শুনলাম।,I listened to his words.,ꠀꠝꠤ ꠔꠣꠞ ꠈꠕꠣ ꠢꠥꠘꠟꠣꠝ.,Я выслушал его слова.,Ich habe auf seine Worte gehört.,Daily Life,Colloquial/Spoken
+42.1,"Cha khaiba ni, ba?","চা খাইবা নি, বা?","চা খাবেন কি, ভাই?","Will you drink tea, brother?","ꠌꠣ ꠈꠣꠁꠛꠣ ꠘꠤ, ꠛꠣ?","Будешь пить чай, брат?","Wirst du Tee trinken, Bruder?",Hospitality,Standard/Written
+42.2,"Sa khaiba ni, ba?","সা খাইবা নি, বা?","চা খাবেন কি, ভাই?","Will you drink tea, brother?","ꠍꠣ ꠈꠣꠁꠛꠣ ꠘꠤ, ꠛꠣ?","Будешь пить чай, брат?","Wirst du Tee trinken, Bruder?",Hospitality,Colloquial/Spoken
+43.1,Mas khora oise.,মাছ খরা অইছে।,মাছ কড়া ভাজা হয়েছে।,The fish has been fried hard.,ꠝꠣꠍ ꠈꠠꠣ ꠅꠁꠍꠦ.,Рыба сильно зажарена.,Der Fisch wurde hart gebraten.,Food,Informal
+44.1,Pakhi ural dise.,পাখি উড়াল দিছে।,পাখিটি উড়েছে।,The bird has flown.,ꠙꠣꠈꠤ ꠃꠠꠣꠟ ꠖꠤꠍꠦ.,Птица улетела.,Der Vogel ist geflogen.,Nature,Standard/Written
+44.2,Fakhi ural dise.,ফাখি উড়াল দিছে।,পাখিটি উড়েছে।,The bird has flown.,ꠚꠣꠈꠤ ꠃꠠꠣꠟ ꠖꠤꠍꠦ.,Птица улетела.,Der Vogel ist geflogen.,Nature,Colloquial/Spoken
+45.1,Ami zani tai zaibo.,আমি জানি তাই যাইবো।,আমি জানি সে যাবে।,I know he will go.,ꠀꠝꠤ ꠎꠣꠘꠤ ꠔꠣꠁ ꠎꠣꠁꠛꠧ.,Я знаю, что он пойдет.,Ich weiß, dass er gehen wird.,Statement,Informal
+46.1,Amar namor spelling kita?,আমার নামর স্পেলিং কিতা?,আমার নামের বানান কী?,What is the spelling of my name?,ꠀꠝꠣꠞ ꠘꠣꠝꠞ ꠁꠍꠙꠦꠟꠤꠋ ꠇꠤꠔꠣ?,Как пишется мое имя?,Wie wird mein Name geschrieben?,Inquiry,Standard/Written
+47.1,Rong bhalo lagsena.,রং ভালো লাগছেনা।,রঙ ভালো লাগছে না।,I don't like the color.,ꠞꠋ ꠜꠣꠟꠣ ꠟꠣꠉꠍꠦꠘꠣ.,Мне не нравится цвет.,Ich mag die Farbe nicht.,Opinion,Informal
+48.1,Tara khela khorer.,তারা খেলা খরের।,তারা খেলছে।,They are playing.,ꠔꠣꠞꠣ ꠈꠦꠟꠣ ꠈꠞꠦꠞ.,Они играют.,Sie spielen.,Action,Standard/Written
+49.1,"Gharor bitre zao, thanda aier.","ঘরর বিতরে যাও, ঠান্ডা আইয়ের।","ঘরের ভেতরে যাও, ঠান্ডা আসছে।","Go inside the house, it is getting cold.","ꠊꠞꠞ ꠛꠤꠔꠞꠦ ꠎꠣꠅ, ꠑꠣꠘ꠆ꠒꠣ ꠀꠁꠄꠞ.","Иди в дом, становится холодно.","Geh ins Haus, es wird kalt.",Instruction,Informal
+50.1,Ekta golpo kou.,একটা গল্প কউ।,একটি গল্প বলো।,Tell a story.,ꠄꠇꠐꠣ ꠉꠟꠙ ꠇꠃ.,Расскажи историю.,Erzähl eine Geschichte.,Request,Standard/Written
+51.1,Nodi baria gese.,নদী বাড়িয়া গেছে।,নদীর পানি বেড়ে গেছে।,The river has swollen.,ꠘꠖꠤ ꠛꠣꠠꠤꠀ ꠉꠦꠍꠦ.,Река разлилась.,Der Fluss ist angeschwollen.,Nature,Informal
+52.1,Kapor fura oigese.,কাপড় ফুরা অইগেছে।,কাপড় পোড়া হয়ে গেছে।,The cloth has been burnt.,ꠇꠣꠙꠠ ꠚꠥꠠꠣ ꠅꠁꠉꠦꠍꠦ.,Ткань сгорела.,Das Tuch ist verbrannt.,Daily Life,Standard/Written
+52.2,Xafor fura oigese.,খাফর ফুরা অইগেছে।,কাপড় পোড়া হয়ে গেছে।,The cloth has been burnt.,ꠈꠣꠚꠠ ꠚꠥꠠꠣ ꠅꠁꠉꠦꠍꠦ.,Ткань сгорела.,Das Tuch ist verbrannt.,Daily Life,Colloquial/Spoken
+53.1,"Dosto, kita khobor?","দোস্ত, কিতা খবর?","বন্ধু, কী খবর?","Friend, what is the news?","ꠖꠥꠍꠔꠧ, ꠇꠤꠔꠣ ꠈꠛꠞ?","Друг, какие новости?","Freund, was gibt es Neues?",Greeting,Informal
+54.1,Ami ranna khairam.,আমি রান্না খাইরাম।,আমি রান্না খাচ্ছি।,I am eating cooked food.,ꠀꠝꠤ ꠞꠣꠘ꠆ꠘꠣ ꠈꠣꠁꠞꠣꠝ.,Я ем приготовленную еду.,Ich esse gekochtes Essen.,Food,Informal
+55.1,Tar gussha aier.,তার গুসশা আইয়ের।,তার রাগ হচ্ছে।,He is getting angry.,ꠔꠣꠞ ꠉꠥꠍꠡꠣ ꠀꠁꠄꠞ.,Он злится.,Er wird wütend.,Emotion,Standard/Written
+56.1,"Bhai, he amar kotha hune na.","ভাই, হে আমার কথা হুনে না।","ভাই, সে আমার কথা শোনে না।","Brother, he does not listen to me.","ꠜꠣꠁ, ꠢꠦ ꠀꠝꠣꠞ ꠇꠕꠣ ꠢꠥꠘꠦ ꠘꠣ.","Брат, он меня не слушает.","Bruder, er hört mir nicht zu.",Complaint,Informal
+57.1,Sokhal bela aio.,সখাল বেলা আইও।,সকাল বেলা এসো।,Come in the morning.,ꠡꠈꠣꠟ ꠛꠦꠟꠣ ꠀꠁꠅ.,Приходи утром.,Komm am Morgen.,Instruction,Standard/Written
+58.1,Afne asoin ni?,আফনে আসইন নি?,আপনি আছেন কি?,Are you there?,ꠀꠚꠘꠦ ꠀꠍꠁꠘ ꠘꠤ?,Вы там?,Sind Sie da?,Inquiry,Formal
+59.1,Purir shorir vala nai.,পুরির শরীর ভালা নাই।,মেয়েটির শরীর ভালো নেই।,The girl's health is not good.,ꠙꠥꠞꠤꠞ ꠡꠞꠤꠞ ꠜꠣꠟꠣ ꠘꠣꠁ.,Здоровье девочки не в порядке.,Die Gesundheit des Mädchens ist nicht gut.,Health,Standard/Written
+59.2,Furir shorir vala nai.,ফুরির শরীর ভালা নাই।,মেয়েটির শরীর ভালো নেই।,The girl's health is not good.,ꠚꠥꠞꠤꠞ ꠡꠞꠤꠞ ꠜꠣꠟꠣ ꠘꠣꠁ.,Здоровье девочки не в порядке.,Die Gesundheit des Mädchens ist nicht gut.,Health,Colloquial/Spoken
+60.1,Huta khoro.,হুতা খরো।,সুতা কাটো।,Cut the thread.,ꠢꠥꠔꠣ ꠈꠞꠧ.,Отрежь нить.,Schneide den Faden.,Action,Standard/Written
+61.1,Kutta bhuki-er.,কুত্তা ভুকিয়ের।,কুকুরটি ডাকছে।,The dog is barking.,ꠇꠥꠔ꠆ꠔꠣ ꠜꠥꠇꠤꠄꠞ.,Собака лает.,Der Hund bellt.,Nature,Standard/Written
+61.2,Xutta bhuki-er.,খুত্তা ভুকিয়ের।,কুকুরটি ডাকছে।,The dog is barking.,ꠈꠥꠔ꠆ꠔꠣ ꠜꠥꠇꠤꠄꠞ.,Собака лает.,Der Hund bellt.,Nature,Colloquial/Spoken
+62.1,"Ou, he ashse!","ওউ, হে আসছে!","ওহ, সে এসেছে!","Oh, he has come!","ꠅꠃ, ꠢꠦ ꠀꠡꠍꠦ!","О, он пришел!","Oh, er ist gekommen!",Expression,Informal
+63.1,Bizli marer.,বিজলি মারের।,বজ্রপাত হচ্ছে।,Lightning is striking.,ꠛꠤꠎꠟꠤ ꠝꠣꠞꠦꠞ.,Сверкает молния.,Der Blitz schlägt ein.,Weather,Informal
+64.1,Ami xala rong pochondo khori.,আমি খালা রং পছন্দ খরি।,আমি কালো রঙ পছন্দ করি।,I like the color black.,ꠀꠝꠤ ꠈꠣꠟꠣ ꠞꠋ ꠙꠍꠘ꠆ꠖ ꠈꠞꠤ.,Мне нравится черный цвет.,Ich mag die schwarze Farbe.,Opinion,Informal
+65.1,Tai khub shundor.,তাই খুব সুন্দর।,সে খুব সুন্দর।,She is very beautiful.,ꠔꠣꠁ ꠈꠥꠛ ꠡꠥꠘ꠆ꠖꠞ.,Она очень красива.,Sie ist sehr schön.,Description,Standard/Written
+66.1,Amra duio-zon zaimu.,আমরা দুইওজন যাইমু।,আমরা দুজনই যাবো।,Both of us will go.,ꠀꠝꠞꠣ ꠖꠥꠁꠅ-ꠎꠘ ꠎꠣꠁꠝꠥ.,Мы оба пойдем.,Wir beide werden gehen.,Daily Life,Informal
+67.1,Dhorza bondho khoro.,ধরজা বন্ধ খরো।,দরজা বন্ধ করো।,Close the door.,ꠗꠞꠎꠣ ꠛꠘ꠆ꠗ ꠈꠞꠧ.,Закрой дверь.,Schließ die Tür.,Instruction,Informal
+68.1,Pathor uxa oise.,পাথর উখা অইছে।,পাথরটি উঁচু হয়েছে।,The stone is high.,ꠙꠣꠕꠞ ꠃꠈꠣ ꠅꠁꠍꠦ.,Камень высок.,Der Stein ist hoch.,Nature,Standard/Written
+68.2,Fathor uxa oise.,ফাতর উখা অইছে।,পাথরটি উঁচু হয়েছে।,The stone is high.,ꠚꠣꠕꠞ ꠃꠈꠣ ꠅꠁꠍꠦ.,Камень высок.,Der Stein ist hoch.,Nature,Colloquial/Spoken
+69.1,Gari calani hikhso ni?,গাড়ি চালানি হিখছো নি?,গাড়ি চালানো শিখেছো কি?,Have you learned to drive?,ꠉꠣꠠꠤ ꠌꠣꠟꠣꠘꠤ ꠢꠤꠈꠍꠧ ꠘꠤ?,Ты научился водить машину?,Hast du Autofahren gelernt?,Inquiry,Informal
+70.1,Meg dimu aiz.,মেঘ দিমু আইজ।,আজ বৃষ্টি হবে।,It will rain today.,ꠝꠦꠉ ꠖꠤꠝꠥ ꠀꠁꠎ.,Сегодня будет дождь.,Heute wird es regnen.,Weather,Informal
+71.1,Kita lagia aiso?,কিতা লাগিয়া আইছো?,কী জন্য এসেছো?,For what reason have you come?,ꠇꠤꠔꠣ ꠟꠣꠉꠤꠀ ꠀꠁꠍꠧ?,Зачем ты пришел?,Warum bist du gekommen?,Inquiry,Standard/Written
+72.1,Ruit uise bohut.,রুইত উইছে বহুত।,অনেক রোদ উঠেছে।,The sun has risen brightly.,ꠞꠥꠁꠔ ꠃꠁꠍꠦ ꠛꠢꠥꠔ.,Солнце светит ярко.,Die Sonne scheint hell.,Weather,Informal
+73.1,Tar dimak nai.,তার দিমাক নাই।,তার বুদ্ধি নেই।,He has no brain.,ꠔꠣꠞ ꠖꠤꠝꠣꠇ ꠘꠣꠁ.,У него нет мозгов.,Er hat kein Gehirn.,Opinion,Informal
+74.1,Ami kham-o zairam.,আমি খামো যাইরাম।,আমি কাজে যাচ্ছি।,I am going to work.,ꠀꠝꠤ ꠈꠣꠝ-ꠅ ꠎꠣꠁꠞꠣꠝ.,Я иду на работу.,Ich gehe zur Arbeit.,Daily Life,Informal
+75.1,"Afne zodi chan, ami zaimu.","আফনে যদি চান, আমি যাইমু।","আপনি যদি চান, আমি যাবো।","If you want, I will go.","ꠀꠚꠘꠦ ꠎꠥꠖꠤ ꠌꠣꠘ, ꠀꠝꠤ ꠎꠣꠁꠝꠥ.","Если вы хотите, я пойду.","Wenn Sie wollen, gehe ich.",Condition,Formal
+76.1,Bhaixta ashse.,ভাইক্সতা আসছে।,ভাতিজা এসেছে।,The nephew has come.,ꠜꠣꠁꠇ꠆ꠍꠔꠣ ꠀꠡꠍꠦ.,Племянник пришел.,Der Neffe ist gekommen.,Family,Informal
+77.1,Pua-r mat huno.,পুয়ার মাত হুনো।,ছেলেটির কথা শোনো।,Listen to the boy's words.,ꠙꠥꠀ-ꠞ ꠝꠣꠔ ꠢꠥꠘꠧ.,Послушай слова мальчика.,Hör dir die Worte des Jungen an.,Instruction,Standard/Written
+77.2,Fua-r mat huno.,ফুয়ার মাত হুনো।,ছেলেটির কথা শোনো।,Listen to the boy's words.,ꠚꠥꠀ-ꠞ ꠝꠣꠔ ꠢꠥꠘꠧ.,Послушай слова мальчика.,Hör dir die Worte des Jungen an.,Instruction,Colloquial/Spoken
+78.1,Tai khub zore haTe.,তাই খুব জোরে হাটে।,সে খুব দ্রুত হাঁটে।,She walks very fast.,ꠔꠣꠁ ꠈꠥꠛ ꠎꠥꠞꠦ ꠢꠣꠐꠦ.,Она ходит очень быстро.,Sie geht sehr schnell.,Description,Informal
+79.1,"Gao taki aisi, ba.","গাও তাকি আইছি, বা।","গ্রাম থেকে এসেছি, ভাই।","I have come from the village, brother.","ꠉꠣꠅ ꠔꠣꠇꠤ ꠀꠁꠍꠤ, ꠛꠣ.","Я пришел из деревни, брат.","Ich bin aus dem Dorf gekommen, Bruder.",Statement,Standard/Written
+79.2,"Gao taxi aisi, ba.","গাও তাকি আইছি, বা।","গ্রাম থেকে এসেছি, ভাই।","I have come from the village, brother.","ꠉꠣꠅ ꠔꠣꠈꠤ ꠀꠁꠍꠤ, ꠛꠣ.","Я пришел из деревни, брат.","Ich bin aus dem Dorf gekommen, Bruder.",Statement,Colloquial/Spoken
+80.1,Cokhur drishti vala nay.,চখুর দৃষ্টি ভালা নায়।,চোখের দৃষ্টি ভালো নয়।,The eyesight is not good.,ꠌꠈꠥꠞ ꠖꠤꠞꠤꠡꠐꠤ ꠜꠣꠟꠣ ꠘꠣꠄ.,Зрение не хорошее.,Die Sehkraft ist nicht gut.,Health,Standard/Written
+80.2,Sokhur drishti vala nay.,ছখুর দৃষ্টি ভালা নায়।,চোখের দৃষ্টি ভালো নয়।,The eyesight is not good.,ꠍꠈꠥꠞ ꠖꠤꠞꠤꠡꠐꠤ ꠜꠣꠟꠣ ꠘꠣꠄ.,Зрение не хорошее.,Die Sehkraft ist nicht gut.,Health,Colloquial/Spoken
+81.1,Ghoror chala bhangi gese.,ঘরর চালা ভাঙ্গি গেছে।,ঘরের ছাদ ভেঙে গেছে।,The roof of the house has broken.,ꠊꠞꠞ ꠌꠣꠟꠣ ꠜꠣꠋꠉꠤ ꠉꠦꠍꠦ.,Крыша дома сломалась.,Das Dach des Hauses ist gebrochen.,Home,Standard/Written
+81.2,Ghoror sala bhangi gese.,ঘরর ছালা ভাঙ্গি গেছে।,ঘরের ছাদ ভেঙে গেছে।,The roof of the house has broken.,ꠊꠞꠞ ꠍꠣꠟꠣ ꠜꠣꠋꠉꠤ ꠉꠦꠍꠦ.,Крыша дома сломалась.,Das Dach des Hauses ist gebrochen.,Home,Colloquial/Spoken
+82.1,"Bapre bap, ki boro xaf!","বাপরে বাপ, কি বড় খাফ!","বাপরে বাপ, কী বড় সাপ!","Oh my god, what a big snake!","ꠛꠣꠙꠞꠦ ꠛꠣꠙ, ꠇꠤ ꠛꠠ ꠈꠣꠚ!","О боже, какая огромная змея!","Oh mein Gott, was für eine große Schlange!",Expression,Informal
+83.1,Amra hokole zani.,আমরা হকলে জানি।,আমরা সবাই জানি।,We all know.,ꠀꠝꠞꠣ ꠢꠇꠟꠦ ꠎꠣꠘꠤ.,Мы все знаем.,Wir wissen alle.,Statement,Informal
+84.1,Ami tokhon zani na.,আমি তখোন জানি না।,আমি তখন জানি না।,I did not know then.,ꠀꠝꠤ ꠔꠈꠧꠘ ꠎꠣꠘꠤ ꠘꠣ.,Я тогда не знал.,Ich wusste es damals nicht.,Statement,Informal
+85.1,Amar hat kete gese.,আমার হাত কেটে গেছে।,আমার হাত কেটে গেছে।,My hand got cut.,ꠀꠝꠣꠞ ꠢꠣꠔ ꠇꠦꠐꠦ ꠉꠦꠍꠦ.,Я порезал руку.,Ich habe mir in die Hand geschnitten.,Health,Standard/Written
+85.2,Amar hat xete gese.,আমার হাত খেটে গেছে।,আমার হাত কেটে গেছে।,My hand got cut.,ꠀꠝꠣꠞ ꠢꠣꠔ ꠈꠦꠐꠦ ꠉꠦꠍꠦ.,Я порезал руку.,Ich habe mir in die Hand geschnitten.,Health,Colloquial/Spoken
+86.1,Tumi amar loge ao.,তুমি আমার লগে আও।,তুমি আমার সাথে এসো।,Come with me.,ꠔꠥꠝꠤ ꠀꠝꠣꠞ ꠟꠉꠦ ꠀꠅ.,Пойдем со мной.,Komm mit mir.,Instruction,Informal
+87.1,Tai hano boise.,তাই হানো বইছে।,সে সেখানে বসেছে।,She sat there.,ꠔꠣꠁ ꠢꠣꠘꠧ ꠛꠁꠍꠦ.,Она села там.,Sie saß dort.,Action,Informal
+88.1,Maza betha khorer.,মাজা বেথা খরের।,কোমর ব্যথা করছে।,My waist is hurting.,ꠝꠣꠎꠣ ꠛꠦꠕꠣ ꠈꠞꠦꠞ.,У меня болит поясница.,Meine Taille tut weh.,Health,Informal
+89.1,Kun khet-o zaiso?,কুন খেত-ও যাইছো?,কোন খেতে গিয়েছো?,Which field did you go to?,ꠇꠥꠘ ꠈꠦꠔ-ꠅ ꠎꠣꠁꠍꠧ?,В какое поле ты пошел?,Auf welches Feld bist du gegangen?,Agriculture,Informal
+90.1,Hokol-re salam deo.,হকল-রে সালাম দেও।,সবাইকে সালাম দাও।,Give greetings to everyone.,ꠢꠇꠟ-ꠞꠦ ꠍꠣꠟꠣꠝ ꠖꠦꠅ.,Поздоровайся со всеми.,Grüße alle.,Religion,Informal
+91.1,"Tain zodi asoin, vala oibo.","তাইন যদি আসইন, ভালা অইবো।","তিনি যদি আসেন, ভালো হবে।","If he comes, it will be good.","ꠔꠣꠁꠘ ꠎꠥꠖꠤ ꠀꠍꠁꠘ, ꠜꠣꠟꠣ ꠅꠁꠛꠧ.","Если он придет, это будет хорошо.","Wenn er kommt, wird es gut sein.",Condition,Formal
+92.1,Amra bhat khairam nay.,আমরা ভাত খাইরাম নায়।,আমরা ভাত খাচ্ছি না।,We are not eating rice.,ꠀꠝꠞꠣ ꠜꠣꠔ ꠈꠣꠁꠞꠣꠝ ꠘꠣꠄ.,Мы не едим рис.,Wir essen keinen Reis.,Daily Life,Informal
+93.1,Bhai-e amakan dise.,ভাইয়ে আমাকান দিছে।,ভাই আমাকে এটা দিয়েছে।,Brother gave this to me.,ꠜꠣꠁꠄ ꠀꠝꠣꠇꠣꠘ ꠖꠤꠍꠦ.,Брат дал это мне.,Der Bruder hat mir das gegeben.,Daily Life,Informal
+94.1,Shobi nirab.,শবি নিরব।,সবাই নীরব।,Everyone is silent.,ꠡꠛꠤ ꠘꠤꠞꠛ.,Все молчат.,Jeder ist still.,Description,Informal
+95.1,Pathor bhari bohut.,পাথর ভারি বহুত।,পাথরটি অনেক ভারী।,The stone is very heavy.,ꠙꠣꠕꠞ ꠜꠣꠞꠤ ꠛꠢꠥꠔ.,Камень очень тяжелый.,Der Stein ist sehr schwer.,Description,Standard/Written
+95.2,Fathor bhari bohut.,ফাতর ভারি বহুত।,পাথরটি অনেক ভারী।,The stone is very heavy.,ꠚꠣꠕꠞ ꠜꠣꠞꠤ ꠛꠢꠥꠔ.,Камень очень тяжелый.,Der Stein ist sehr schwer.,Description,Colloquial/Spoken
+96.1,Amar matha ghurar.,আমার মাথা ঘুরার।,আমার মাথা ঘুরছে।,My head is spinning.,ꠀꠝꠣꠞ ꠝꠣꠕꠣ ꠊꠥꠞꠣꠞ.,У меня кружится голова.,Mir ist schwindelig.,Health,Informal
+97.1,Tumar ghor koi?,তুমার ঘর কই?,তোমার ঘর কোথায়?,Where is your house?,ꠔꠥꠝꠣꠞ ꠊꠞ ꠇꠂ?,Где твой дом?,Wo ist dein Haus?,Inquiry,Informal
+98.1,"Zoldi khoro, deri oizer.","জলদি খরো, দেরি অইযের।","তাড়াতাড়ি করো, দেরি হচ্ছে।","Hurry up, it is getting late.","ꠎꠟꠖꠤ ꠈꠞꠧ, ꠖꠦꠞꠤ ꠅꠁꠎꠦꠞ.","Поторопись, уже поздно.","Beeil dich, es wird spät.",Instruction,Informal
+99.1,Hokol gese gi.,হকল গেছে গি।,সবাই চলে গেছে।,Everyone has left.,ꠢꠇꠟ ꠉꠦꠍꠦ ꠉꠤ.,Все ушли.,Alle sind gegangen.,Statement,Informal
+100.1,Ami ar pari na.,আমি আর পারি না।,আমি আর পারি না।,I can not do it anymore.,ꠀꠝꠤ ꠀꠞ ꠙꠣꠞꠤ ꠘꠣ.,Я больше не могу.,Ich kann nicht mehr.,Expression,Standard/Written
+100.2,Ami ar fari na.,আমি আর ফারি না।,আমি আর পারি না।,I can not do it anymore.,ꠀꠝꠤ ꠀꠞ ꠚꠣꠞꠤ ꠘꠣ.,Я больше не могу.,Ich kann nicht mehr.,Expression,Colloquial/Spoken
