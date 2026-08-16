@@ -16,11 +16,11 @@ Sylheti is categorized as a low-resource language with a limited digital footpri
 * **Data Integrity:** Unverified or missing script data (e.g., uncertain Nagri inputs) are intentionally left blank (`Null/NaN`) to maintain high precision and prevent AI model degradation.
 * **Dialect Mapping:** Sub-regional variations (e.g., Sylhet Sadar, Sunamganj) sharing the same semantic meaning are linked using a structured decimal index (e.g., `1.1`, `1.2`).
 
-| Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Bangla (Standard) | English (Standard) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Russian (Русский) | German (Deutsch) | Domain | Register |
+| Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Bangla (Standard) | English (Standard) | Russian (Русский) | German (Deutsch) | Domain | Register |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.1** | *Ami okhon zaimugi* | আমি অখন যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
-| **1.2** | *Ami one zaimugi* | আমি অনে যাইমুগি | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠅꠘꠦ ꠎꠣꠁꠝꠥꠉꠤ | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
-| **1.3** | *Ami akhon zaimuga* | আমি আখন যাইমুগা | আমি এখন চলে যাব। | I will leave now. | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠣ | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
+| **1.1** | *Ami okhon zaimugi* | আমি অখন যাইমুগি | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
+| **1.2** | *Ami one zaimugi* | আমি অনে যাইমুগি | ꠀꠝꠤ ꠅꠘꠦ ꠎꠣꠁꠝꠥꠉꠤ | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
+| **1.3** | *Ami akhon zaimuga* | আমি আখন যাইমুগা | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠣ | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
 
 ## 📥 Download & Usage
 The dataset files (`parallel_sentences.tsv`, `lexicon.tsv`) are stored in this repository under the `data/` directory. You can download them directly from GitHub or use `git clone` to clone the repository.
