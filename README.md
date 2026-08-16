@@ -8,6 +8,7 @@ Welcome to the first open-source multilingual parallel corpus for the **Sylheti*
 ## 📌 Project Overview
 Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the technological gap by building a highly structured multilingual parallel corpus. It is uniquely designed to support **AI and LLM training**, Machine Translation (MT) models, cross-lingual tokenizers, and dialectal analysis tools by mapping phonetic variations and traditional scripts across major global language families.
 
+
 ## 📂 Dataset Structure & Preview
 * **Format:** TSV (Tab-Separated Values) / Mobile WPS Spreadsheet Compatible (UTF-8 Encoded)
 * **Core Files:** 
@@ -22,6 +23,7 @@ Sylheti is categorized as a low-resource language with a limited digital footpri
 | **1.2** | *Ami one zaimugi* | আমি অনে যাইমুগি | ꠀꠝꠤ ꠅꠘꠦ ꠎꠣꠁꠝꠥꠉꠤ | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
 | **1.3** | *Ami akhon zaimuga* | আমি আখন যাইমুগা | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠣ | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal |
 
+
 ## 📥 Download & Usage
 The dataset files (`parallel_sentences.tsv`, `lexicon.tsv`) are stored in this repository under the `data/` directory. You can download them directly from GitHub or use `git clone` to clone the repository.
 
@@ -33,17 +35,20 @@ The dataset files (`parallel_sentences.tsv`, `lexicon.tsv`) are stored in this r
   ```
 * **Attribution:** Citation and attribution are strictly required under the CC-BY-4.0 license framework (see `LICENSE` file for full text).
 
+
 ## 🤝 Contributing
 This repository is maintained privately at project start. Contributions are accepted only from explicitly invited collaborators (e.g., close family members and verified academic peers). 
 
 * **Strict Policy:** Do not submit changes without prior written permission. 
 * To request access or collaborate, contact the maintainer directly. Unsolicited Pull Requests (PRs) or unauthorized issues will be immediately closed without review.
 
+
 ## 🚀 Future Roadmap & Core Goals
 - **Scale to 10,000+ Parallel Sentences:** Continually expand the dataset rows to establish a world-class digital preservation corpus for AI.
 - **Granular Dialect Mapping:** Systematically categorize sub-regional dialects (e.g., Sylhet Sadar, Sunamganj, Habiganj, Moulvibazar) using precise metadata tags.
 - **German Language Integration:** Complete parallel translation vectors for German to allow advanced syntactic and structural analysis.
 - **Acoustic Audio Alignment:** Collect high-fidelity spoken data for Automatic Speech Recognition (ASR) and Speech Synthesis (TTS).
+
 
 ## 🧑‍💻 About the Author
 I am an undergraduate Linguistics student at **Kursk State University, Russia**, and a **native Sylheti speaker**. As an aspiring Computational Linguist, I am independently building this dataset to preserve, revitalize, and digitize the Sylheti language using modern computational methods.
