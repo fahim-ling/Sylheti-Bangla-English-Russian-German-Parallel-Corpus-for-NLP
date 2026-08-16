@@ -23,3 +23,29 @@ Index,Sylheti (Romanized),Sylheti (Bangla Script),Bangla (Standard),English (Sta
 10.2,Boro tuan aier,বড় তুআন আইয়ের,বড় ঝড় আসছে।,A heavy storm is coming.,ꠛꠠ ꠔꠥꠀꠘ ꠀꠁꠄꠞ,Надвигается сильный шторм.,Ein schwerer Sturm zieht auf.,Weather,Colloquial/Spoken
 11.1,Tumi kapor zaiso ni?,তুমি কাপড় ধুইছো নি?,তুমি কি কাপড় ধুয়েছো?,Have you washed the clothes?,ꠔꠥꠝꠤ ꠇꠣꠙꠠ ꠗꠥꠁꠍꠧ ꠘꠤ?,Ты постирал одежду?,Hast du die Kleidung gewaschen?,Daily Life,Standard/Written
 11.2,Tumi xafor zaiso ni?,তুমি খাফর ধুইছো নি?,তুমি কি কাপড় ধুয়েছো?,Have you washed the clothes?,ꠔꠥꠝꠤ ꠈꠣꠚꠠ ꠗꠥꠁꠍꠧ ꠘꠤ?,Ты постирал одежду?,Hast du die Kleidung gewaschen?,Daily Life,Colloquial/Spoken
+12.1,Ami bhat khairam,আমি ভাত খাইরাম,আমি ভাত খাচ্ছি।,I am eating rice.,ꠀꠝꠤ ꠜꠣꠔ ꠈꠣꠁꠞꠣꠝ,Я ем рис.,Ich esse Reis.,Daily Life,Informal
+13.1,"Ikano ao, zoldi","ইকানো আও, জলদি","এখানে এসো, তাড়াতাড়ি","Come here, quickly","ꠁꠇꠣꠘꠧ ꠀꠅ, ꠎꠟꠖꠤ","Иди сюда, быстро","Komm her, schnell",Daily Life,Standard/Written
+13.2,"Ixano ao, zoldi","ইখানো আও, জলদি","এখানে এসো, তাড়াতাড়ি","Come here, quickly","ꠁꠈꠣꠘꠧ ꠀꠅ, ꠎꠟꠖꠤ","Иди сюда, быстро","Komm her, schnell",Daily Life,Colloquial/Spoken
+14.1,He bazar-o zaibo,হে বাজার-ও যাইবো,সে বাজারে যাবে।,He will go to the market.,ꠢꠦ ꠛꠣꠎꠣꠞ-ꠅ ꠎꠣꠁꠛꠧ,Он пойдет на рынок.,Er wird auf den Markt gehen.,Daily Life,Informal
+15.1,"Amare tura pani deo, ba","আমারে তুড়া পানি দেও, বা","আমাকে একটু পানি দাও, ভাই","Give me some water, please","ꠀꠝꠣꠞꠦ ꠔꠥꠠꠣ ꠙꠣꠘꠤ ꠖꠦꠅ, ꠛꠣ","Дай мне немного воды, пожалуйста","Gib mir bitte etwas Wasser",Request,Standard/Written
+15.2,"Amare tura fani deo, ba","আমারে তুড়া ফানি দেও, বা","আমাকে একটু পানি দাও, ভাই","Give me some water, please","ꠀꠝꠣꠞꠦ ꠔꠥꠠꠣ ꠚꠣꠘꠤ ꠖꠦꠅ, ꠛꠣ","Дай мне немного воды, пожалуйста","Gib mir bitte etwas Wasser",Request,Colloquial/Spoken
+16.1,Aiz bohut gorom,আইজ বহুত গরম,আজ অনেক গরম।,Today is very hot.,ꠀꠁꠎ ꠛꠢꠥꠔ ꠉꠞꠝ,Сегодня очень жарко.,Heute ist es sehr heiß.,Weather,Informal
+17.1,Tumi koi taki aiso?,তুমি কই তাকি আইছো?,তুমি কোথা থেকে এসেছো?,Where are you from?,ꠔꠥꠝꠤ ꠇꠂ ꠕꠣꠇꠤ ꠀꠁꠍꠧ?,Откуда ты?,Woher kommst du?,Inquiry,Standard/Written
+17.2,Tumi xoi taxi aiso?,তুমি খই তাকি আইছো?,তুমি কোথা থেকে এসেছো?,Where are you from?,ꠔꠥꠝꠤ ꠈꠂ ꠕꠣꠇꠤ ꠀꠁꠍꠧ?,Откуда ты?,Woher kommst du?,Inquiry,Colloquial/Spoken
+18.1,Ami kisu zani na,আমি কিছু জানি না,আমি কিছু জানি না,I do not know anything,ꠀꠝꠤ ꠇꠤꠍꠥ ꠎꠣꠘꠤ ꠘꠣ,Я ничего не знаю,Ich weiß nichts,Daily Life,Standard/Written
+18.2,Ami xisu zani na,আমি খিসু জানি না,আমি কিছু জানি না,I do not know anything,ꠀꠝꠤ ꠈꠤꠍꠥ ꠎꠣꠘꠤ ꠘꠣ,Я ничего не знаю,Ich weiß nichts,Daily Life,Colloquial/Spoken
+19.1,Pua-gu bohut vala,পুয়া-গু বহুত ভালা,ছেলেটি অনেক ভালো,The boy is very good,ꠙꠥꠀ-ꠉꠥ ꠛꠢꠥꠔ ꠜꠣꠟꠣ,Мальчик очень хороший,Der Junge ist sehr gut,Description,Standard/Written
+19.2,Fua-gu bohut vala,ফুয়া-গু বহুত ভালা,ছেলেটি অনেক ভালো,The boy is very good,ꠚꠥꠀ-ꠉꠥ ꠛꠢꠥꠔ ꠜꠣꠟꠣ,Мальчик очень хороший,Der Junge ist sehr gut,Description,Colloquial/Spoken
+20.1,"Tai, oile, aizku aiyse na","তাই, অইলে, আইজকু আইছে না","সে, তবে, আজ আসেনি","She, however, did not come today","ꠔꠣꠁ, ꠅꠁꠟꠦ, ꠀꠁꠎꠇꠥ ꠀꠁꠍꠦ ꠘꠣ","Она, однако, сегодня не пришла","Sie ist heute jedoch nicht gekommen",Statement,Informal
+21.1,Tumi amar kotha hunrai ni?,তুমি আমার কথা হুনরায় নি?,তুমি কি আমার কথা শুনছো?,Are you listening to me?,ꠔꠥꠝꠤ ꠀꠝꠣꠞ ꠇꠕꠣ ꠢꠥꠘꠞꠣꠁ ꠘꠤ?,Ты меня слушаешь?,Hörst du mir zu?,Inquiry,Standard/Written
+21.2,Tumi amar xotha hunrai ni?,তুমি আমার খথা হুনরায় নি?,তুমি কি আমার কথা শুনছো?,Are you listening to me?,ꠔꠥꠝꠤ ꠀꠝꠣꠞ ꠈꠕꠣ ꠢꠥꠘꠞꠣꠁ ꠘꠤ?,Ты меня слушаешь?,Hörst du mir zu?,Inquiry,Colloquial/Spoken
+22.1,Puri-e boi porer,পুরিয়ে বই পড়ের,মেয়েটি বই পড়ছে,The girl is reading a book,ꠙꠥꠞꠤꠄ ꠛꠂ ꠙꠠꠦꠞ,Девочка читает книгу,Das Mädchen liest ein Buch,Education,Standard/Written
+22.2,Furi-e boi forer,ফুরিয়ে বই ফড়ের,মেয়েটি বই পড়ছে,The girl is reading a book,ꠚꠥꠞꠤꠄ ꠛꠂ ꠚꠠꠦꠞ,Девочка читает книгу,Das Mädchen liest ein Buch,Education,Colloquial/Spoken
+23.1,Amra ekloge zaimu,আমরা একলগে যাইমু,আমরা একসাথে যাবো,We will go together,ꠀꠝꠞꠣ ꠄꠇꠟꠉꠦ ꠎꠣꠁꠝꠥ,Мы пойдем вместе,Wir werden zusammen gehen,Daily Life,Informal
+24.1,Amar pet betha korer,আমার পেট বেথা করের,আমার পেট ব্যথা করছে,My stomach is hurting,ꠀꠝꠣꠞ ꠙꠦꠐ ꠛꠦꠕꠣ ꠇꠞꠦꠞ,У меня болит живот,Mein Bauch tut weh,Health,Standard/Written
+24.2,Amar fet betha xorer,আমার ফেট বেথা খরের,আমাদের পেট ব্যথা করছে,My stomach is hurting,ꠀꠝꠣꠞ ꠚꠦꠐ ꠛꠦꠕꠣ ꠈꠞꠦꠞ,У меня болит живот,Mein Bauch tut weh,Health,Colloquial/Spoken
+25.1,Baire bohut zore meg deer,বাইরে বহুত জোরে মেঘ দের,বাইরে খুব জোরে বৃষ্টি হচ্ছে,It is raining heavily outside,ꠛꠣꠁꠞꠦ ꠛꠢꠥꠔ ꠎꠥꠞꠦ ꠝꠦꠉ ꠖꠦꠞ,На улице идет сильный дождь,Es regnet draußen stark,Weather,Informal
+26.1,"Kita koiso, bhai?","কিতা কইছো, ভাই?","কী বলেছো, ভাই?","What did you say, brother?","ꠇꠤꠔꠣ ꠇꠁꠍꠧ, ꠜꠣꠁ?","Что ты сказал, брат?","Was hast du gesagt, Bruder?",Inquiry,Standard/Written
+26.2,"Kita xoiso, bhai?","কিতা খইছো, ভাই?","কী বলেছো, ভাই?","What did you say, brother?","ꠇꠤꠔꠣ ꠈꠁꠍꠧ, ꠜꠣꠁ?","Что ты сказал, брат?","Was hast du gesagt, Bruder?",Inquiry,Colloquial/Spoken
+27.1,Ami aizku khaitam nay,আমি আইজকু খাইতাম নায়,আমি আজ খাবো না,I will not eat today,ꠀꠝꠤ ꠀꠁꠎꠇꠥ ꠈꠣꠁꠔꠣꠝ ꠘꠣꠄ,Я сегодня не буду есть,Ich werde heute nicht essen,Daily Life,Informal
+28.1,"Kun shomoy aiba, dosto?","কুন সময় আইবা, দোস্ত?","কখন আসবে, বন্ধু?","When will you come, friend?","ꠇꠥꠘ ꠡꠝꠄ ꠀꠁꠛꠣ, ꠖꠥꠍꠔꠧ?","Когда ты придешь, друг?","Wann kommst du, Freund?",Inquiry,Informal
