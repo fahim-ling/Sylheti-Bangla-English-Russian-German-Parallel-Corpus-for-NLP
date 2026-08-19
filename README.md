@@ -1,6 +1,3 @@
-### ২. GitHub README.md (Final & Flawless with Working Link)
-
-```markdown
 # Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP
 
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)
@@ -31,3 +28,4 @@ import pandas as pd
 # Load sample parallel sentences
 df = pd.read_csv('data/sample_parallel_sentences.tsv', sep='\t', encoding='utf-8')
 print(df.head())
+```
