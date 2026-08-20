@@ -22,7 +22,7 @@ Creating this sequence alignment—matching precise semantic equivalence, dialec
 - Do **NOT** scrape, republish, or commercialize this dataset without explicit attribution.
 - Unauthorized text-scraping or utilizing this schema without citing the author is strictly prohibited under the CC BY-NC 4.0 license.
 
-## 📂 Repository Contents (Sample Data)
+## 📂 Repository Contents (Sample)
 This GitHub repository contains **Sample Data (50 entries each)** to allow researchers and developers to test Python pipelines, tokenizers, and alignment scripts:
 
 - **`data/parallel_sentences_showcase.tsv`**: 50 sample parallel sentence alignments across 5 languages (10 Columns).
@@ -32,10 +32,10 @@ This GitHub repository contains **Sample Data (50 entries each)** to allow resea
 - **File Format:** TSV (Tab-Separated Values), UTF-8 Encoded.
 - **Zero-Hallucination Policy:** Any unverified or missing script data (specifically for ancient Syloti Nagri conjuncts) are intentionally left blank (`NaN` or `Null`) to prevent AI model degradation and maintain 100% precision.
 
-### 📊 Data Preview
+### 📊 Data Preview (Structure)
 | Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Bangla (Standard) | English (Standard) | Russian (Русский) | German (Deutsch) | Domain | Register | POS |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.1** | *Ami okhon zaimugi* | আমি অখন যাইমুগি | ꠀꠝꠤ ꠀꠈꠘ ꠎꠣꠁꠝꠥꠉꠤ | আমি এখন চলে যাব। | I will leave now. | Я сейчас уйду. | Ich gehe jetzt. | daily_life | informal | verb |
+| **1.1** | *"* | "  | " | "  | " | "  | " | "  | " | "  |
 
 ## 📥 Data Loading Example (Python)
 Always set `sep='\t'` and `encoding='utf-8'` when reading the `.tsv` files to prevent text corruption:
