@@ -1,0 +1,50 @@
+1.1	ami	আমি	ꠀꠝꠤ	আমি	I	Я	Ich	General	Formal	Pronoun
+1.2	tumi	তুমি	ꠔꠥꠝꠤ	তুমি	You (informal)	Ты	Du	General	Informal	Pronoun
+1.3	afne	আফনে	ꠀꠚꠘꠦ	আপনি	You (formal)	Вы	Sie	General	Formal	Pronoun
+1.4	he	হে	ꠢꠦ	সে (পুরুষ)	He	Он	Er	General	Informal	Pronoun
+1.5	tain	তায়িন	ꠔꠣꠁꠘ	তিনি (সম্মানিত)	He/She (formal)	Он/Она (вежл.)	Er/Sie (formell)	General	Formal	Pronoun
+1.6	tai	তাই	ꠔꠣꠁ	সে (মহিলা)	She	Она	Sie	General	Informal	Pronoun
+1.7	amra	আমরা	ꠀꠝꠞꠣ	আমরা	We	Мы	Wir	General	Formal	Pronoun
+1.8	tomra	তোমরা	ꠔꠥꠝꠞꠣ	তোমরা	You (plural)	Вы	Ihr	General	Informal	Pronoun
+1.9	tara	তারা	ꠔꠣꠞꠣ	তারা	They	Они	Sie (Plural)	General	Formal	Pronoun
+1.10	ita	ইতা	ꠁꠔꠣ	এগুলো	These	Эти	Diese	General	Informal	Pronoun
+2.1	xaoa	খাওয়া	ꠈꠣꠅꠣ	খাওয়া	To eat	Есть	Essen	General	Formal	Verb
+2.2	zaoa	যাওয়া	ꠎꠣꠅꠣ	যাওয়া	To go	Идти	Gehen	General	Formal	Verb
+2.3	aioa	আইওয়া	ꠀꠁꠅꠣ	আসা	To come	Приходить	Kommen	General	Formal	Verb
+2.4	dexa	দেখা	ꠖꠦꠈꠣ	দেখা	To see	Видеть	Sehen	General	Formal	Verb
+2.5	xora	করা	ꠇꠞꠣ	করা	To do	Делать	Machen	General	Formal	Verb
+2.6	xoua	কওয়া	ꠇꠃꠀ	বলা	To say	Говорить	Sagen	General	Formal	Verb
+2.7	huna	হুনা	ꠢꠥꠘꠣ	শোনা	To hear	Слышать	Hören	General	Formal	Verb
+2.8	lexa	লেখা	ꠟꠦꠈꠣ	লেখা	To write	Писать	Schreiben	General	Formal	Verb
+2.9	forha	পড়া	ꠙꠠꠣ	পড়া	To read	Читать	Lesen	General	Formal	Verb
+2.10	huta	হুতা	ꠢꠥꠔꠣ	ঘুমানো	To sleep	Спать	Schlafen	General	Formal	Verb
+3.1	xauani	খাওয়ানি	ꠈꠣꠅꠣꠘꠤ	খাওয়ানো	Feeding (act of)	Кормление	Füttern	General	Formal	Noun
+3.2	zauani	যাওয়ানি	ꠎꠣꠅꠣꠘꠤ	যাওয়া (কাজ)	Going (act of)	Хождение	Gehen	General	Formal	Noun
+3.3	anani	আনানি	ꠀꠘꠣꠘꠤ	আনানো	Bringing (act of)	Принесение	Bringen	General	Formal	Noun
+3.4	hikhani	হিখানি	ꠢꠤꠈꠣꠘꠤ	শেখানো	Teaching (act of)	Обучение	Lehren	General	Formal	Noun
+3.5	zafani	জাপানি	ꠎꠣꠚꠣꠘꠤ	ঢাকা (কাজ)	Covering (act of)	Покрытие	Bedecken	General	Formal	Noun
+3.6	xandani	কান্দানি	ꠇꠣꠘ꠆ꠖꠣꠘꠤ	কাঁদানো	Making someone cry	Доведение до слёз	Zum Weinen bringen	General	Formal	Noun
+3.7	hasani	হাসানি	ꠢꠣꠡꠣꠘꠤ	হাসানো	Making someone laugh	Смешение	Zum Lachen bringen	General	Formal	Noun
+3.8	furani	ফুরানি	ꠚꠥꠞꠣꠘꠤ	পোড়ানো	Burning (act of)	Сжигание	Verbrennen	General	Formal	Noun
+3.9	huxani	হুকানি	ꠢꠥꠇꠣꠘꠤ	শুকানো	Drying (act of)	Сушка	Trocknen	General	Formal	Noun
+3.10	dorani	ডরানি	ꠒꠞꠣꠘꠤ	ভয় দেখানো	Frightening (act of)	Устрашение	Erschrecken	General	Formal	Noun
+4.1	ashman	আশমান	ꠀꠡꠝꠣꠘ	আকাশ	Sky	Небо	Himmel	General	Formal	Noun
+4.2	batash	বাতাস	ꠛꠣꠔꠣꠡ	বাতাস	Wind	Ветер	Wind	General	Formal	Noun
+4.3	mati	মাটি	ꠝꠣꠐꠤ	মাটি	Soil/Earth	Земля	Erde	General	Formal	Noun
+4.4	doria	দরিয়া	ꠖꠞꠤꠀ	সাগর/নদী	Sea/River	Море/Река	Meer/Fluss	General	Formal	Noun
+4.5	foza	ফজা	ꠚꠎꠣ	ভোর	Dawn	Рассвет	Morgendämmerung	General	Formal	Noun
+4.6	shoril	শরিল	ꠡꠞꠤꠟ	শরীর	Body	Тело	Körper	General	Formal	Noun
+4.7	feth	পেঠ	ꠙꠦꠑ	পেট	Stomach	Живот	Magen	General	Formal	Noun
+4.8	xarbar	কারবার	ꠇꠣꠞꠛꠣꠞ	কাজ/ব্যবসা	Business/Affair	Дело	Geschäft	General	Formal	Noun
+4.9	shomaz	সমাজ	ꠡꠝꠣꠎ	সমাজ	Society	Общество	Gesellschaft	General	Formal	Noun
+4.10	bidesh	বিদেশ	ꠛꠤꠖꠦꠡ	বিদেশ	Foreign land	Заграница	Ausland	General	Formal	Noun
+5.1	mohobbot	মহব্বত	ꠝꠢꠛ꠆ꠛꠔ	ভালোবাসা	Love	Любовь	Liebe	General	Formal	Noun
+5.2	gussa	গুচ্ছা	ꠉꠥꠍ꠆ꠍꠣ	রাগ	Anger	Гнев	Wut	General	Formal	Noun
+5.3	iad	ইয়াদ	ꠁꠀꠖ	স্মৃতি/মনে পড়া	Memory/Recall	Память	Erinnerung	General	Formal	Noun
+5.4	formash	ফরমাশ	ꠚꠞꠝꠣꠡ	আদেশ/নির্দেশ	Order/Command	Приказ	Befehl	General	Formal	Noun
+5.5	azadi	আজাদি	ꠀꠎꠣꠖꠤ	স্বাধীনতা	Freedom	Свобода	Freiheit	General	Formal	Noun
+5.6	bemar	বেমার	ꠛꠦꠝꠣꠞ	অসুস্থতা	Illness	Болезнь	Krankheit	General	Formal	Noun
+5.7	nioiot	নিয়ত	ꠘꠤꠅꠔ	সংকল্প/উদ্দেশ্য	Intention	Намерение	Absicht	General	Formal	Noun
+5.8	shanti	শান্তি	ꠡꠣꠘ꠆ꠔꠤ	শান্তি	Peace	Мир	Frieden	General	Formal	Noun
+5.9	hok	হউখ	ꠢꠇ	অধিকার/সত্য	Right/Truth	Право/Истина	Recht/Wahrheit	General	Formal	Noun
+5.10	xial	খেয়াল	ꠈꠦꠀꠟ	মনোযোগ	Attention	Внимание	Aufmerksamkeit	General	Formal	Noun
