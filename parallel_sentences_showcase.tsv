@@ -1,51 +1,50 @@
-Index	Sylheti (Romanized)	Sylheti (Bangla Script)	Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ)	Bangla (Standard)	English (Standard)	Russian (Русский)	German (Deutsch)	Domain	Register	POS
-1.1	tain	তায়িন	ꠔꠣꠁꠘ	তিনি (সম্মানিত)	He/She (formal)	Он/Она (вежл.)	Er/Sie (formell)	General	Formal	Pronoun
-1.2	tarain	তারাইন	ꠔꠣꠞꠣꠁꠘ	তারা (সম্মানিত)	They (formal)	Они (вежл.)	Sie (formell, Pl.)	General	Formal	Pronoun
-1.3	erain	এরাইন	ꠄꠞꠣꠁꠘ	এরা (সম্মানিত)	These people (formal)	Эти люди (вежл.)	Diese Leute (formell)	General	Formal	Pronoun
-1.4	afne	আফনে	ꠀꠚꠘꠦ	আপনি	You (formal)	Вы	Sie	General	Formal	Pronoun
-1.5	ougu	ঔগু	ꠅꠃꠉꠥ	এটি	This one	Этот	Dieser	General	Informal	Pronoun
-1.6	hougu	হৌগু	ꠢꠅꠃꠉꠥ	ওটি	That one	Тот	Jener	General	Informal	Pronoun
-1.7	zera	যেঁরা	ꠎꠦꠞꠣ	যারা	Those who	Те, кто	Diejenigen, die	General	Formal	Pronoun
-1.8	hera	হেরা	ꠢꠦꠞꠣ	তারা	They (informal)	Они	Sie (Plural)	General	Informal	Pronoun
-1.9	he	হে	ꠢꠦ	সে (পুরুষ)	He	Он	Er	General	Informal	Pronoun
-1.10	tai	তাই	ꠔꠣꠁ	সে (মহিলা)	She	Она	Sie	General	Informal	Pronoun
-2.1	mata	মাতা	ꠝꠣꠔꠣ	কথা বলা	To speak	Говорить	Sprechen	General	Formal	Verb
-2.2	zira	জিরা	ꠎꠤꠞꠣ	বিশ্রাম নেওয়া	To rest	Отдыхать	Ausruhen	General	Formal	Verb
-2.3	huta	হুতা	ꠢꠥꠔꠣ	ঘুমানো	To sleep	Спать	Schlafen	General	Formal	Verb
-2.4	huna	হুনা	ꠢꠥꠘꠣ	শোনা	To hear	Слышать	Hören	General	Formal	Verb
-2.5	xoua	কওয়া	ꠇꠃꠀ	বলা	To say	Сказать	Sagen	General	Formal	Verb
-2.6	dexa	দেখা	ꠖꠦꠈꠣ	দেখা	To see	Видеть	Sehen	General	Formal	Verb
-2.7	hamaoa	হামাওয়া	ꠢꠣꠝꠣꠅꠣ	প্রবেশ করা	To enter	Входить	Eintreten	General	Formal	Verb
-2.8	baroia	বারইয়া	ꠛꠣꠞꠁꠀ	বের হওয়া	To exit	Выходить	Hinausgehen	General	Formal	Verb
-2.9	aioa	আইওয়া	ꠀꠁꠅꠣ	আসা	To come	Приходить	Kommen	General	Formal	Verb
-2.10	zaoa	যাওয়া	ꠎꠣꠅꠣ	যাওয়া	To go	Идти	Gehen	General	Formal	Verb
-3.1	matani	মাতানি	ꠝꠣꠔꠣꠘꠤ	কথা বলানো	Making someone speak	Побуждение к разговору	Zum Sprechen bringen	General	Formal	Noun
-3.2	zirani	জিরানি	ꠎꠤꠞꠣꠘꠤ	বিশ্রাম (কাজ)	Resting (act of)	Отдых	Ausruhen (Subst.)	General	Formal	Noun
-3.3	hutani	হুতানি	ꠢꠥꠔꠣꠘꠤ	ঘুমানো (কাজ)	Sleeping (act of)	Сон (процесс)	Schlafen (Subst.)	General	Formal	Noun
-3.4	xandani	কান্দানি	ꠇꠣꠘ꠆ꠖꠣꠘꠤ	কাঁদানো	Making someone cry	Доведение до слёз	Zum Weinen bringen	General	Formal	Noun
-3.5	xafani	কাপানি	ꠇꠣꠚꠣꠘꠤ	কাঁপানো	Shaking (act of)	Тряска	Schütteln (Subst.)	General	Formal	Noun
-3.6	dorani	ডরানি	ꠒꠞꠣꠘꠤ	ভয় দেখানো	Frightening (act of)	Устрашение	Erschrecken (Subst.)	General	Formal	Noun
-3.7	huxani	হুকানি	ꠢꠥꠇꠣꠘꠤ	শুকানো	Drying (act of)	Сушка	Trocknen (Subst.)	General	Formal	Noun
-3.8	furani	ফুরানি	ꠚꠥꠞꠣꠘꠤ	পোড়ানো	Burning (act of)	Сжигание	Verbrennen (Subst.)	General	Formal	Noun
-3.9	hikhani	হিখানি	ꠢꠤꠈꠣꠘꠤ	শেখানো	Teaching (act of)	Обучение	Lehren (Subst.)	General	Formal	Noun
-3.10	hasani	হাসানি	ꠢꠣꠡꠣꠘꠤ	হাসানো	Making someone laugh	Смешение	Zum Lachen bringen	General	Formal	Noun
-4.1	feth	ফেট	ꠚꠦꠐ	পেট	Stomach	Живот	Bauch	General	Formal	Noun
-4.2	shoil	শইল	ꠡꠁꠟ	শরীর	Body	Тело	Körper	General	Formal	Noun
-4.3	at	আট	ꠀꠐ	হাত	Hand	Рука	Hand	General	Formal	Noun
-4.4	fao	ফাও	ꠚꠣꠅ	পা	Foot/Leg	Нога	Fuß/Bein	General	Formal	Noun
-4.5	gala	গালা	ꠉꠣꠟꠣ	গাল	Cheek	Щека	Wange	General	Formal	Noun
-4.6	doria	দরিয়া	ꠖꠞꠤꠀ	নদী/সাগর	River/Sea	Река/Море	Fluss/Meer	General	Formal	Noun
-4.7	foza	ফজা	ꠚꠎꠣ	ভোর	Dawn	Рассвет	Morgendämmerung	General	Formal	Noun
-4.8	ashman	আশমান	ꠀꠡꠝꠣꠘ	আকাশ	Sky	Небо	Himmel	General	Formal	Noun
-4.9	batash	বাতাস	ꠛꠣꠔꠣꠡ	বাতাস	Wind	Ветер	Wind	General	Formal	Noun
-4.10	mati	মাটি	ꠝꠣꠐꠤ	মাটি	Soil	Земля	Erde	General	Formal	Noun
-5.1	gusha	গুশা	ꠉꠥꠡꠣ	রাগ	Anger	Гнев	Wut	General	Formal	Noun
-5.2	xial	খেয়াল	ꠈꠦꠀꠟ	মনোযোগ	Attention	Внимание	Aufmerksamkeit	General	Formal	Noun
-5.3	bemar	বেমার	ꠛꠦꠝꠣꠞ	অসুস্থতা	Illness	Болезнь	Krankheit	General	Formal	Noun
-5.4	mohobbot	মহব্বত	ꠝꠢꠛ꠆ꠛꠔ	ভালোবাসা	Love	Любовь	Liebe	General	Formal	Noun
-5.5	formash	ফরমাশ	ꠚꠞꠝꠣꠡ	আদেশ	Order	Приказ	Befehl	General	Formal	Noun
-5.6	nioiot	নিয়ত	ꠘꠤꠅꠔ	সংকল্প	Intention	Намерение	Absicht	General	Formal	Noun
-5.7	dondo	দন্দ	ꠖꠘ꠆ꠖ	ঝগড়া	Quarrel	Ссора	Streit	General	Formal	Noun
-5.8	iad	ইয়াদ	ꠁꠀꠖ	স্মৃতি/মনে পড়া	Memory	Память	Erinnerung	General	Formal	Noun
-5.9	hok	হউখ	ꠢꠇ	অধিকার/সত্য	Truth/Right	Истина/Право	Wahrheit/Recht	General	Formal	Noun
-5.10	azadi	আজাদি	ꠀꠎꠣꠖꠤ	স্বাধীনতা	Freedom	Свобода	Freiheit	General	Formal	Noun
+1	Ami bhat khai	আমি ভাত খাই	ꠀꠝꠤ ꠜꠣꠔ ꠈꠣꠁ	আমি ভাত খাই	I eat rice	Я ем рис	Ich esse Reis	General	Standard
+2	He bazarot zay	হে বাজারোত যায়	ꠢꠦ ꠛꠣꠎꠣꠞꠧꠔ ꠎꠣꠄ	সে বাজারে যায়	He goes to the market	Он идет на рынок	Er geht auf den Markt	General	Standard
+3	Amra Siloti xikram	আমরা ছিলটি শিকরাম	ꠀꠝꠞꠣ ꠍꠤꠟꠐꠤ ꠡꠤꠇꠞꠣꠝ	আমরা সিলেটি শিখছি	We are learning Sylheti	Мы изучаем силхети	Wir lernen Sylheti	Education	Standard
+4	Tara futbôl xeloin	তারা ফুটবল খেলোইন	NaN	তারা ফুটবল খেলে	They play football	Они играют в футбол	Sie spielen Fußball	Sports	Standard
+5	Tumi fani xao	তুমি ফানি খাও	ꠔꠥꠝꠤ ꠚꠣꠘꠤ ꠈꠣꠅ	তুমি পানি খাও	You drink water	Ты пьешь воду	Du trinkst Wasser	General	Standard
+6	Tai boi fore	তাই বই ফড়ে	ꠔꠣꠁ ꠛꠁ ꠚꠠꠦ	সে বই পড়ে	She reads a book	Она читает книгу	Sie liest ein Buch	Education	Standard
+7	Amar nam Fahim	আমার নাম ফাহিম	ꠀꠝꠣꠞ ꠘꠣꠝ ꠚꠣꠢꠤꠝ	আমার নাম ফাহিম	My name is Fahim	Меня зовут Фахим	Mein Name ist Fahim	Personal	Standard
+8	Ruiddor uṭse	রুইদ্দর উঠছে	NaN	রোদ উঠেছে	The sun is shining	Светит солнце	Die Sonne scheint	Nature	Standard
+9	Fakkhi uṛer	ফাক্কি উড়ের	NaN	পাখি উড়ছে	The bird is flying	Птица летит	Der Vogel fliegt	Nature	Standard
+10	Ami amar dehore vala fai	আমি আমার দেশরে ভালা ফাই	NaN	আমি আমার দেশকে ভালোবাসি	I love my country	Я люблю свою страну	Ich liebe mein Land	General	Standard
+11	Tumi kuno zairay?	তুমি কুনো যাইরায়?	NaN	তুমি কোথায় যাচ্ছ?	Where are you going?	Куда ты идешь?	Wohin gehst du?	General	Standard
+12	Tumi koi zairay?	তুমি কই যাইরায়?	NaN	তুমি কোথায় যাচ্ছ?	Where are you going?	Куда ты идешь?	Wohin gehst du?	General	Regional
+13	Hetan xamta kôrse	হেতান কামটা করছে	NaN	সে কাজটি করেছে	He did the work	Он сделал эту работу	Er hat die Arbeit gemacht	General	Regional
+14	He xamgu kôrse	হে কামগু করছে	NaN	সে কাজটি করেছে	He did the work	Он сделал эту работу	Er hat die Arbeit gemacht	General	Standard
+15	Ikano ao	ইখানো আও	ꠁꠈꠣꠘꠧ ꠀꠅ	এখানে এসো	Come here	Иди сюда	Komm her	General	Standard
+16	Iṭat ao	ইটাত আও	NaN	এখানে এসো	Come here	Иди сюда	Komm her	General	Regional
+17	Amare boigu deo	আমারে বইগু দেও	NaN	আমাকে বইটি দাও	Give me the book	Дай мне книгу	Gib mir das Buch	General	Standard
+18	Amare boiṭa deo	আমারে বইটা দেও	NaN	আমাকে বইটি দাও	Give me the book	Дай мне книгу	Gib mir das Buch	General	Regional
+19	Ami zani na	আমি জানি না	ꠀꠝꠤ ꠎꠣꠘꠤ ꠘꠣ	আমি জানি না	I do not know	Я не знаю	Ich weiß es nicht	General	Standard
+20	Ami xinam na	আমি চিনাম না	NaN	আমি চিনি না	I do not know (recognize)	Я не узнаю	Ich kenne es nicht	General	Regional
+21	Tumar zani ṭik oise na	তুমার জানি ঠিক অইছে না	NaN	তোমার যাওয়া ঠিক হয়নি	Your going was not right	Твой уход был неправильным	Dein Gehen war nicht richtig	General	Standard
+22	Fuar kandani bhal lager na	ফুয়ার কান্দানি ভাল লাগের না	NaN	বাচ্চার কান্না ভালো লাগছে না	The baby's crying is annoying	Плач ребенка раздражает	Das Weinen des Babys ist nervig	General	Standard
+23	I bebohar ami xaitam nay	ই বেবহার আমি ছাইতাম নায়	NaN	এই আচরণ আমি সহ্য করব না	I will not tolerate this behavior	Я не потерплю этого поведения	Ich werde dieses Verhalten nicht tolerieren	General	Formal
+24	Kailku tar aoni asil	কাইলকু তার আওনি আছিল	NaN	গতকাল তার আসার কথা ছিল	He was supposed to come yesterday	Он должен был прийти вчера	Er sollte gestern kommen	General	Standard
+25	Randani xesh	রান্দানি শেষ	NaN	রান্না শেষ	The cooking is finished	Готовка закончена	Das Kochen ist fertig	General	Standard
+26	Xamta kôrizao	কামটা করিযাও	NaN	কাজটি করতে থাকো	Keep doing the work	Продолжай делать работу	Arbeite weiter	General	Standard
+27	Ghumanir age lait nizao	ঘুমানির আগে লাইট নিজাও	NaN	ঘুমানোর আগে আলো নিভিয়ে দাও	Turn off the light before sleeping	Выключи свет перед сном	Mach das Licht vor dem Schlafengehen aus	General	Standard
+28	He douṛiya ailo	হে দৌড়িয়া আইলো	NaN	সে দৌড়ে এলো	He came running	Он прибежал	Er kam gerannt	General	Standard
+29	Kôbôr hunia tai kandit bôilo	খবর হুনিয়া তাই কান্দিত বইলো	NaN	খবরটি শুনে সে কাঁদতে বসল	Hearing the news, she started crying	Услышав новость, она заплакала	Als sie die Nachricht hörte, fing sie an zu weinen	General	Standard
+30	Ikano aoni age ami kailisi	ইখানো আওনির আগে আমি খাইলিছি	NaN	এখানে আসার আগে আমি খেয়ে নিয়েছি	I ate before coming here	Я поел до того, как прийти сюда	Ich habe gegessen, bevor ich hierher kam	General	Standard
+31	Tumi zaitay nay ni?	তুমি যাইতায় নায় নি?	NaN	তুমি কি যাবে না?	Will you not go?	Ты не пойдешь?	Wirst du nicht gehen?	General	Standard
+32	Tumar nam kita?	তুমার নাম কিতা?	ꠔꠥꠝꠣꠞ ꠘꠣꠝ ꠇꠤꠔꠣ?	তোমার নাম কী?	What is your name?	Как тебя зовут?	Wie heißt du?	Personal	Standard
+33	Ita kene kôrlay?	ইতা কেনে করলায়?	NaN	এটা কেন করলে?	Why did you do this?	Почему ты это сделал?	Warum hast du das gemacht?	General	Standard
+34	Ami kuntu deksi na	আমি কুনতু দেখছি না	NaN	আমি কিছু দেখিনি	I didn't see anything	Я ничего не видел	Ich habe nichts gesehen	General	Standard
+35	Baṛit keu nai	বাড়িত কেউ নাই	NaN	বাড়িতে কেউ নেই	Nobody is at home	Дома никого нет	Niemand ist zu Hause	General	Standard
+36	Tumi kaiso ni?	তুমি খাইছো নি?	NaN	তুমি কি খেয়েছ?	Have you eaten?	Ты поел?	Hast du gegessen?	General	Standard
+37	He aij aier ni?	হে আইজ আইয়ের নি?	NaN	সে কি আজ আসছে?	Is he coming today?	Он придет сегодня?	Kommt er heute?	General	Standard
+38	Ami kunudin okano zaitam nay	আমি কুনুদিন অখানো যাইতাম নায়	NaN	আমি কোনোদিন সেখানে যাব না	I will never go there	Я никогда туда не поеду	Ich werde nie dorthin gehen	General	Standard
+39	Itar dam kôto?	ইটার দাম কতো?	NaN	এটার দাম কত?	How much does this cost?	Сколько это стоит?	Wie viel kostet das?	Commerce	Standard
+40	Beshi mat matio na	বেশি মাত মাতিও না	NaN	বেশি কথা বলো না	Do not talk too much	Не говори слишком много	Sprich nicht zu viel	General	Standard
+41	Zudi megh de, te ami universiti-t zaitam nay	যুদি মেঘ দে, তে আমি ভার্সিটিত যাইতাম নায়	NaN	যদি বৃষ্টি হয়, তবে আমি বিশ্ববিদ্যালয়ে যাব না	If it rains, I won't go to university	Если пойдет дождь, я не пойду в университет	Wenn es regnet, gehe ich nicht zur Universität	General	Standard
+42	Kailku tumi ze beṭare deksilay, he amar sasa	কাইলকু তুমি যে বেটারে দেখছিলায়, হে আমার চাচা	NaN	গতকাল তুমি যে লোকটিকে দেখেছিলে, সে আমার চাচা	The man you saw yesterday is my uncle	Человек, которого вы видели вчера, мой дядя	Der Mann, den du gestern gesehen hast, ist mein Onkel	Personal	Standard
+43	Ami zani ze he itat razi oito nay	আমি জানি যে হে ইটাত রাজি অইতো নায়	NaN	আমি জানি যে সে এতে রাজি হবে না	I know that he will not agree to this	Я знаю, что он не согласится на это	Ich weiß, dass er dem nicht zustimmen wird	General	Formal
+44	Zehutu ami bemari aslam, ami miṭing-ot zaita farslam na	যেহেতু আমি বেমারি আছলাম, আমি মিটিং-ওত যাইতা পারছলাম না	NaN	যেহেতু আমি অসুস্থ ছিলাম, আমি মিটিংয়ে উপস্থিত হতে পারিনি	Since I was sick, I couldn't attend the meeting	Так как я был болен, я не смог присутствовать на встрече	Da ich krank war, konnte ich nicht an der Sitzung teilnehmen	Professional	Formal
+45	Taro ṭexa aseleo, he boro kifṭa	তারো টেকা আচেলেও, হে বড় কিপটা	NaN	তার টাকা থাকলেও, সে খুব কিপটে	Although he has money, he is very miserly	Хотя у него есть деньги, он очень скуп	Obwohl er Geld hat, ist er sehr geizig	General	Standard
+46	He erom mat mater zanu he hokkolta zane	হে এরোম মাত মাতের জানু হে হাক্কলতা জানে	NaN	সে এমনভাবে কথা বলে যেন সে সবকিছু জানে	He speaks as if he knows everything	Он говорит так, как будто знает все	Er spricht, als ob er alles wüsste	General	Standard
+47	Master saab rumot hamaite e sattrokkol ubai gela	মাস্টার ছাব রুমোত হামাইতে এ ছাত্রক্কল উবাই গেলা	NaN	শিক্ষক রুমে প্রবেশ করা মাত্রই ছাত্ররা দাঁড়িয়ে পড়ল	As soon as the teacher entered the room, the students stood up	Как только учитель вошел в комнату, ученики встали	Sobald der Lehrer den Raum betrat, standen die Schüler auf	Education	Formal
+48	Xosṭo kôri xam kôro zate zibonot unnoti kôrtay faro	কষ্ট করি কাম করো জাতে জিবনোত উন্নতি কর্তায় ফারো	NaN	কঠোর পরিশ্রম করো যাতে জীবনে সফল হতে পারো	Work hard so that you can succeed in life	Трудись усердно, чтобы добиться успеха в жизни	Arbeite hart, damit du im Leben erfolgreich sein kannst	General	Formal
+49	Kunu siddhanto neor age er folafol loia sinta kôrio	কুনু সিদ্ধান্ত নেওর আগে এর ফলাফল লইয়া চিন্তা করিও	NaN	কোনো সিদ্ধান্ত নেওয়ার আগে এর ফলাফল নিয়ে চিন্তা করো	Before making a decision, think about the consequences	Прежде чем принять решение, подумайте о последствиях	Bevor Sie eine Entscheidung treffen, denken Sie über die Konsequenzen nach	General	Formal
+50	Kailku okano kitha oisilo, amare ṭik kôri kôo	কাইলকু অখানো কিতা অইছিলো, আমারে ঠিক করি কও	NaN	গতকাল সেখানে কী ঘটেছিল, আমাকে ঠিক করে বলো	Tell me exactly what happened there yesterday	Расскажите мне точно, что там произошло вчера	Erzähl mir genau, was dort gestern passiert ist	General	Standard
