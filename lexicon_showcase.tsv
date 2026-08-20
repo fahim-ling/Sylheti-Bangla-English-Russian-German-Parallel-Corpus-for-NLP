@@ -1,0 +1,51 @@
+Index	Sylheti (Romanized)	Sylheti (Bangla Script)	Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ)	Bangla (Standard)	English (Standard)	Russian (Русский)	German (Deutsch)	Domain	Register	POS
+1.1	tain	তায়িন	ꠔꠣꠁꠘ	তিনি (সম্মানিত)	He/She (formal)	Он/Она (вежл.)	Er/Sie (formell)	General	Formal	Pronoun
+1.2	tarain	তারাইন	ꠔꠣꠞꠣꠁꠘ	তারা (সম্মানিত)	They (formal)	Они (вежл.)	Sie (formell, Pl.)	General	Formal	Pronoun
+1.3	erain	এরাইন	ꠄꠞꠣꠁꠘ	এরা (সম্মানিত)	These people (formal)	Эти люди (вежл.)	Diese Leute (formell)	General	Formal	Pronoun
+1.4	afne	আফনে	ꠀꠚꠘꠦ	আপনি	You (formal)	Вы	Sie	General	Formal	Pronoun
+1.5	ougu	ঔগু	ꠅꠃꠉꠥ	এটি	This one	Этот	Dieser	General	Informal	Pronoun
+1.6	hougu	হৌগু	ꠢꠅꠃꠉꠥ	ওটি	That one	Тот	Jener	General	Informal	Pronoun
+1.7	zera	যেঁরা	ꠎꠦꠞꠣ	যারা	Those who	Те, кто	Diejenigen, die	General	Formal	Pronoun
+1.8	hera	হেরা	ꠢꠦꠞꠣ	তারা	They (informal)	Они	Sie (Plural)	General	Informal	Pronoun
+1.9	he	হে	ꠢꠦ	সে (পুরুষ)	He	Он	Er	General	Informal	Pronoun
+1.10	tai	তাই	ꠔꠣꠁ	সে (মহিলা)	She	Она	Sie	General	Informal	Pronoun
+2.1	mata	মাতা	ꠝꠣꠔꠣ	কথা বলা	To speak	Говорить	Sprechen	General	Formal	Verb
+2.2	zira	জিরা	ꠎꠤꠞꠣ	বিশ্রাম নেওয়া	To rest	Отдыхать	Ausruhen	General	Formal	Verb
+2.3	huta	হুতা	ꠢꠥꠔꠣ	ঘুমানো	To sleep	Спать	Schlafen	General	Formal	Verb
+2.4	huna	হুনা	ꠢꠥꠘꠣ	শোনা	To hear	Слышать	Hören	General	Formal	Verb
+2.5	xoua	কওয়া	ꠇꠃꠀ	বলা	To say	Сказать	Sagen	General	Formal	Verb
+2.6	dexa	দেখা	ꠖꠦꠈꠣ	দেখা	To see	Видеть	Sehen	General	Formal	Verb
+2.7	hamaoa	হামাওয়া	ꠢꠣꠝꠣꠅꠣ	প্রবেশ করা	To enter	Входить	Eintreten	General	Formal	Verb
+2.8	baroia	বারইয়া	ꠛꠣꠞꠁꠀ	বের হওয়া	To exit	Выходить	Hinausgehen	General	Formal	Verb
+2.9	aioa	আইওয়া	ꠀꠁꠅꠣ	আসা	To come	Приходить	Kommen	General	Formal	Verb
+2.10	zaoa	যাওয়া	ꠎꠣꠅꠣ	যাওয়া	To go	Идти	Gehen	General	Formal	Verb
+3.1	matani	মাতানি	ꠝꠣꠔꠣꠘꠤ	কথা বলানো	Making someone speak	Побуждение к разговору	Zum Sprechen bringen	General	Formal	Noun
+3.2	zirani	জিরানি	ꠎꠤꠞꠣꠘꠤ	বিশ্রাম (কাজ)	Resting (act of)	Отдых	Ausruhen (Subst.)	General	Formal	Noun
+3.3	hutani	হুতানি	ꠢꠥꠔꠣꠘꠤ	ঘুমানো (কাজ)	Sleeping (act of)	Сон (процесс)	Schlafen (Subst.)	General	Formal	Noun
+3.4	xandani	কান্দানি	ꠇꠣꠘ꠆ꠖꠣꠘꠤ	কাঁদানো	Making someone cry	Доведение до слёз	Zum Weinen bringen	General	Formal	Noun
+3.5	xafani	কাপানি	ꠇꠣꠚꠣꠘꠤ	কাঁপানো	Shaking (act of)	Тряска	Schütteln (Subst.)	General	Formal	Noun
+3.6	dorani	ডরানি	ꠒꠞꠣꠘꠤ	ভয় দেখানো	Frightening (act of)	Устрашение	Erschrecken (Subst.)	General	Formal	Noun
+3.7	huxani	হুকানি	ꠢꠥꠇꠣꠘꠤ	শুকানো	Drying (act of)	Сушка	Trocknen (Subst.)	General	Formal	Noun
+3.8	furani	ফুরানি	ꠚꠥꠞꠣꠘꠤ	পোড়ানো	Burning (act of)	Сжигание	Verbrennen (Subst.)	General	Formal	Noun
+3.9	hikhani	হিখানি	ꠢꠤꠈꠣꠘꠤ	শেখানো	Teaching (act of)	Обучение	Lehren (Subst.)	General	Formal	Noun
+3.10	hasani	হাসানি	ꠢꠣꠡꠣꠘꠤ	হাসানো	Making someone laugh	Смешение	Zum Lachen bringen	General	Formal	Noun
+4.1	feth	ফেট	ꠚꠦꠐ	পেট	Stomach	Живот	Bauch	General	Formal	Noun
+4.2	shoil	শইল	ꠡꠁꠟ	শরীর	Body	Тело	Körper	General	Formal	Noun
+4.3	at	আট	ꠀꠐ	হাত	Hand	Рука	Hand	General	Formal	Noun
+4.4	fao	ফাও	ꠚꠣꠅ	পা	Foot/Leg	Нога	Fuß/Bein	General	Formal	Noun
+4.5	gala	গালা	ꠉꠣꠟꠣ	গাল	Cheek	Щека	Wange	General	Formal	Noun
+4.6	doria	দরিয়া	ꠖꠞꠤꠀ	নদী/সাগর	River/Sea	Река/Море	Fluss/Meer	General	Formal	Noun
+4.7	foza	ফজা	ꠚꠎꠣ	ভোর	Dawn	Рассвет	Morgendämmerung	General	Formal	Noun
+4.8	ashman	আশমান	ꠀꠡꠝꠣꠘ	আকাশ	Sky	Небо	Himmel	General	Formal	Noun
+4.9	batash	বাতাস	ꠛꠣꠔꠣꠡ	বাতাস	Wind	Ветер	Wind	General	Formal	Noun
+4.10	mati	মাটি	ꠝꠣꠐꠤ	মাটি	Soil	Земля	Erde	General	Formal	Noun
+5.1	gusha	গুশা	ꠉꠥꠡꠣ	রাগ	Anger	Гнев	Wut	General	Formal	Noun
+5.2	xial	খেয়াল	ꠈꠦꠀꠟ	মনোযোগ	Attention	Внимание	Aufmerksamkeit	General	Formal	Noun
+5.3	bemar	বেমার	ꠛꠦꠝꠣꠞ	অসুস্থতা	Illness	Болезнь	Krankheit	General	Formal	Noun
+5.4	mohobbot	মহব্বত	ꠝꠢꠛ꠆ꠛꠔ	ভালোবাসা	Love	Любовь	Liebe	General	Formal	Noun
+5.5	formash	ফরমাশ	ꠚꠞꠝꠣꠡ	আদেশ	Order	Приказ	Befehl	General	Formal	Noun
+5.6	nioiot	নিয়ত	ꠘꠤꠅꠔ	সংকল্প	Intention	Намерение	Absicht	General	Formal	Noun
+5.7	dondo	দন্দ	ꠖꠘ꠆ꠖ	ঝগড়া	Quarrel	Ссора	Streit	General	Formal	Noun
+5.8	iad	ইয়াদ	ꠁꠀꠖ	স্মৃতি/মনে পড়া	Memory	Память	Erinnerung	General	Formal	Noun
+5.9	hok	হউখ	ꠢꠇ	অধিকার/সত্য	Truth/Right	Истина/Право	Wahrheit/Recht	General	Formal	Noun
+5.10	azadi	আজাদি	ꠀꠎꠣꠖꠤ	স্বাধীনতা	Freedom	Свобода	Freiheit	General	Formal	Noun
