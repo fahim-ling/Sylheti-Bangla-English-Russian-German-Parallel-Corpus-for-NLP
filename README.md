@@ -1,14 +1,14 @@
 # Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP
 
-![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)
-![Domain: NLP / Computational Linguistics](https://img.shields.io/badge/Domain-NLP%20%2F%20CL-blue)
+![License: CC BY-NC 4.0](https://shields.io)
+![Domain: NLP / Computational Linguistics](https://shields.io)
 
 Welcome to the **first open-source multilingual parallel corpus** for the **Sylheti (syl)** language, engineered by a native Linguistics student. This dataset bridges Sylheti with four major global high-resource languages spanning **three distinct language families** (Indo-Aryan, Germanic, and Slavic) to support Computational Linguistics (CL), Natural Language Processing (NLP) research, and Large Language Model (LLM) fine-tuning.
 
 > 🚨 **NOTICE: FULL DATASET IS HOSTED ON HUGGING FACE (GATED ACCESS)**
 > To preserve data integrity and prevent unauthorized scraping or AI model degradation, the complete production corpus is hosted exclusively on Hugging Face.
 > 
-> **[🔗 Click Here to Access the Full Dataset on Hugging Face](https://huggingface.co/datasets/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP)**
+> **[🔗 Click Here to Access the Full Dataset on Hugging Face](https://huggingface.co)**
 
 ## 📌 Project Overview
 Sylheti is categorized as a low-resource language with a limited digital footprint. This project bridges the technological gap by building a highly structured multilingual parallel corpus. It is uniquely designed to support **AI and LLM training**, Machine Translation (MT) models, cross-lingual tokenizers, and dialectal analysis tools by mapping phonetic variations and traditional scripts across major global language families.
@@ -33,9 +33,11 @@ This GitHub repository contains **Sample Data (50 entries each)** to allow resea
 - **Zero-Hallucination Policy:** Any unverified or missing script data (specifically for ancient Syloti Nagri conjuncts) are intentionally left blank (`NaN` or `Null`) to prevent AI model degradation and maintain 100% precision.
 
 ### 📊 Data Preview (Structure)
+
 | Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Bangla (Standard) | English (Standard) | Russian (Русский) | German (Deutsch) | Domain | Register | POS |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.1** | *"* | "  | " | "  | " | "  | " | "  | " | "  |
+| **1.1** | *tai* | তাই | ꠔꠣꠁ | সে (মহিলা) | She | Она | Sie | general | informal | pronoun |
+| **1.2** | *tai one zaibo gi* | তাই অনে যাইবো গি | ꠔꠣꠁ ꠅꠘꠦ ꠎꠣꠁꠛꠦꠣ ꠉꠤ | সে এখন চলে যাবে। | She will leave now. | Она сейчас уйдет. | Sie wird jetzt gehen. | daily_life | informal | NaN |
 
 ## 📥 Data Loading Example (Python)
 Always set `sep='\t'` and `encoding='utf-8'` when reading the `.tsv` files to prevent text corruption:
