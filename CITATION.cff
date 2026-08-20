@@ -1,13 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this dataset, lexicon, or parallel corpus in your research or software, please cite it as below."
+type: dataset
+
 authors:
   - family-names: "Ahmed"
     given-names: "Fahim"
+
 title: "Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP"
 version: "1.0.0"
 date-released: "2026-08-12"
-url: "https://huggingface.co"
-repository-code: "https://github.com"
+
+url: "https://huggingface.co/datasets/fahim-ling/Sylheti-Bangla-English-Russian-German-Parallel-Corpus-for-NLP"
+repository-code: "https://github.com/fahim-ling"
+
 keywords:
   - "sylheti"
   - "syloti-nagri"
@@ -16,4 +21,5 @@ keywords:
   - "machine-translation"
   - "computational-linguistics"
   - "multilingual-nlp"
+
 license: "CC-BY-NC-4.0"
