@@ -30,7 +30,7 @@ This GitHub repository contains **Sample Data (50 entries each)** to allow resea
 
 ### 📐 Data Schema & Integrity
 - **File Format:** TSV (Tab-Separated Values), UTF-8 Encoded.
-- **Zero-Hallucination Policy:** Any unverified or missing script data (specifically for ancient Syloti Nagri conjuncts) are intentionally left blank (`NaN` or `Null`) to prevent AI model degradation and maintain 100% precision.
+- **Zero-Hallucination Policy:** Any unverified or missing script data (specifically for ancient Syloti Nagri conjuncts) are strictly left **completely empty** (represented by consecutive tabs `\t\t` in the raw file). Literal strings like `NaN` or `Null` are absolutely prohibited to prevent BPE/WordPiece tokenizer pollution. This ensures 100% corpus precision while allowing downstream AI pipelines (Pandas/Hugging Face) to safely auto-parse them as true missing values.
 
 ### 📊 Data Preview (Lexicon & Sentence Structure)
 
