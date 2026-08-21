@@ -68,11 +68,19 @@ Always set `sep='\t'` and `encoding='utf-8'` when reading the `.tsv` files to pr
 ```python
 import pandas as pd
 
-# Load lexicon
-lexicon_df = pd.read_csv('data/lexicon.tsv', sep='\t', encoding='utf-8')
+# Load showcase lexicon
+lexicon_df = pd.read_csv(
+    'data/lexicon_showcase.tsv',
+    sep='\t',
+    encoding='utf-8'
+)
 
 # Load showcase parallel sentences
-parallel_df = pd.read_csv('data/parallel_sentences_showcase.tsv', sep='\t', encoding='utf-8')
+parallel_df = pd.read_csv(
+    'data/parallel_sentences_showcase.tsv',
+    sep='\t',
+    encoding='utf-8'
+)
 
 print(lexicon_df.head())
 print(parallel_df.head())
