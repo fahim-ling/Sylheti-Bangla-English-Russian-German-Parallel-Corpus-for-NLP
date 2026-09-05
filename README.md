@@ -57,7 +57,7 @@ This repository and corpus are maintained with strict access controls to preserv
 - To request research access or collaborate, contact the maintainer directly.
   
 ## 🧑‍💻 About the Author
-I am **Fahim Ahmed** (cited academically as **Ahmed Fahim**), an undergraduate Linguistics student at **Kursk State University, Russia**, and a **native Sylheti speaker**. As an aspiring Computational Linguist, I am independently building this dataset to preserve, revitalize, and digitize the Sylheti language using modern AI pathways and LLM architectures.
+**Fahim Ahmed** (cited academically as **Ahmed Fahim**), an undergraduate Linguistics student at **Kursk State University, Russia**, and a **native Sylheti speaker**. As an aspiring Computational Linguist, I am independently building this dataset to preserve, revitalize, and digitize the Sylheti language using modern AI pathways and LLM architectures.
 
 ## 📥 Data Loading Example (Python)
 Always set `sep='\t'` and `encoding='utf-8'` when reading the `.tsv` files to prevent text corruption:
