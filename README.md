@@ -30,19 +30,20 @@ This GitHub repository contains **Sample Data (50 entries each)** to allow resea
 
 ### 📐 Data Schema & Integrity
 - **File Format:** TSV (Tab-Separated Values), UTF-8 Encoded.
-- **Zero-Hallucination Policy:** Any unverified or missing script data (specifically for ancient Syloti Nagri conjuncts) are strictly left **completely empty** (represented by consecutive tabs `\t\t` in the raw file). Literal strings like `NaN` or `Null` are absolutely prohibited to prevent BPE/WordPiece tokenizer pollution. This ensures 100% corpus precision while allowing downstream AI pipelines (Pandas/Hugging Face) to safely auto-parse them as true missing values.
+- **Indexing System:** Both datasets use the **Pure Semantic Key (PSK)** format `sXXXXX_vXX`, where `sXXXXX` represents the Semantic Concept / Synset ID and `vXX` represents the Sylheti Variant / Synonym ID. Synonyms or regional variants with the same core meaning share the same Semantic ID and receive sequential Variant IDs.
+- **Zero-Hallucination Policy:** Any missing or unverified linguistic data must be left **completely empty** (represented by consecutive tabs `\t\t` in the raw file). Literal placeholders such as `NaN`, `Null`, or `N/A`, as well as fabricated linguistic forms, are strictly prohibited. This prevents unverified data from entering the corpus and ensures clean parsing for downstream AI/NLP pipelines such as Pandas and Hugging Face.
 
 ### 📊 Data Preview (Lexicon & Sentence Structure)
 
 **Lexicon Schema Preview (11 Columns):**
 | Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Bangla (Standard) | English (Standard) | Russian (Русский) | German (Deutsch) | Domain | Register | POS |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.1** | *tai* | তাই | ꠔꠣꠁ | সে (মহিলা) | She | Она | Sie | General | Informal | Pronoun |
+| **s00001_v01** | *tai* | তাই | ꠔꠣꠁ | সে (মহিলা) | She | Она | Sie | General | Informal | Pronoun |
 
 **Parallel Sentences Schema Preview (10 Columns):**
 | Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Bangla (Standard) | English (Standard) | Russian (Русский) | German (Deutsch) | Domain | Register |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1.2** | *tai oxon zaibogi* | তাই অখন যাইবগি | ꠔꠣꠁ ꠅꠈꠘ ꠎꠣꠁꠛꠉꠤ | সে এখন চলে যাবে। | She will leave now. | Она сейчас уйдет. | Sie wird jetzt gehen. | Daily Life | Informal |
+| **s00001_v01** | *tai oxon zaibogi* | তাই অখন যাইবগি | ꠔꠣꠁ ꠅꠈꠘ ꠎꠣꠁꠛꠉꠤ | সে এখন চলে যাবে। | She will leave now. | Она сейчас уйдет. | Sie wird jetzt gehen. | Daily Life | Informal |
 
 ## 🚀 Future Roadmap & Core Goals
 - **Scale to 10,000+ Entries:** Continually expand dataset rows to establish a world-class digital preservation corpus for AI.
