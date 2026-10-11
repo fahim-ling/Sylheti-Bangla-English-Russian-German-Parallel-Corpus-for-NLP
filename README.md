@@ -26,19 +26,21 @@ Creating this sequence alignment—matching precise semantic equivalence, dialec
 This GitHub repository contains **Sample Data (50 entries each)** to allow researchers and developers to test Python pipelines, tokenizers, and alignment scripts:
 
 - **`data/parallel_sentences_showcase.tsv`**: 50 sample parallel sentence alignments across 5 languages (10 Columns).
-- **`data/lexicon_showcase.tsv`**: 50 sample vocabulary entries with POS and metadata (11 Columns).
+- **`data/lexicons_showcase.tsv`**: 50 sample vocabulary entries with POS and metadata (11 Columns).
 
 ### 📐 Data Schema & Integrity
 - **File Format:** TSV (Tab-Separated Values), UTF-8 Encoded.
-- **Indexing System:** Both datasets use the **Pure Semantic Key (PSK)** format `sXXXXX_vXX`, where `sXXXXX` represents the Semantic Concept / Synset ID and `vXX` represents the Sylheti Variant / Synonym ID. Synonyms or regional variants with the same core meaning share the same Semantic ID and receive sequential Variant IDs.
+- **Indexing System:** The two datasets use distinct Pure Semantic Key (PSK) formats:
+  - **Lexicons:** `lXXXXX_vXX`, where `lXXXXX` represents the Lexical Concept / Synset ID and `vXX` represents the Sylheti Variant / Synonym ID. Synonyms or regional variants belonging to the same lexical concept share the same Lexical Concept ID and receive distinct Variant IDs.
+  - **Parallel Sentences:** `sXXXXX_vXX`, where `sXXXXX` represents the Sentence-level Semantic Equivalence Group ID and `vXX` represents the Sylheti Sentence Variant / Alternative Expression ID. Alternative sentence expressions belonging to the same semantic-equivalence group share the same Sentence Group ID and receive distinct Variant IDs.
 - **Zero-Hallucination Policy:** Any missing or unverified linguistic data must be left **completely empty** (represented by consecutive tabs `\t\t` in the raw file). Literal placeholders such as `NaN`, `Null`, or `N/A`, as well as fabricated linguistic forms, are strictly prohibited. This prevents unverified data from entering the corpus and ensures clean parsing for downstream AI/NLP pipelines such as Pandas and Hugging Face.
 
-### 📊 Data Preview (Lexicon & Sentence Structure)
+### 📊 Data Preview (Lexicons & Sentence Structure)
 
-**Lexicon Schema Preview (11 Columns):**
+**Lexicons Schema Preview (11 Columns):**
 | Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Bangla (Standard) | English (Standard) | Russian (Русский) | German (Deutsch) | Domain | Register | POS |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **s00001_v01** | *tai* | তাই | ꠔꠣꠁ | সে (মহিলা) | She | Она | Sie | General | Informal | Pronoun |
+| **l00001_v01** | *tai* | তাই | ꠔꠣꠁ | সে (মহিলা) | She | Она | Sie | General | Informal | Pronoun |
 
 **Parallel Sentences Schema Preview (10 Columns):**
 | Index | Sylheti (Romanized) | Sylheti (Bangla Script) | Syloti Nagri (ꠍꠤꠟꠐꠤ ꠘꠣꠉꠞꠤ) | Bangla (Standard) | English (Standard) | Russian (Русский) | German (Deutsch) | Domain | Register |
