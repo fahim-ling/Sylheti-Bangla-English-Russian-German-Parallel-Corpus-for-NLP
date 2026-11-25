@@ -1,7 +1,7 @@
 # Sylheti-Bangla-English-Russian-German Parallel Corpus for NLP
 
-![License](https://shields.io)
-![Domain](https://shields.io)
+![License](assets/license-badge.svg)
+![Domain](assets/domain-badge.svg)
 
 Welcome to the **first structured 5-way multilingual parallel corpus** for the **Sylheti (syl)** language, engineered by a native Linguistics student. This dataset bridges Sylheti with four major global high-resource languages spanning **three distinct language families** (Indo-Aryan, Germanic, and Slavic) to support Computational Linguistics (CL), Natural Language Processing (NLP) research, and Large Language Model (LLM) fine-tuning.
 
